@@ -49,7 +49,7 @@ for index, row in cooperativas_sicredi.iterrows():
 
 ## Execução do Código
 
-O arquivo 'Webscraping.ipynb' contém o processo completo de raspagem de dados e está disponível neste repositório.
+O arquivo `Webscraping.ipynb` contém o processo completo de raspagem de dados e está disponível neste repositório.
 Para executar os códigos, siga as instruções contidas nos comentários de cada trecho de código.
 
 ## Observações
