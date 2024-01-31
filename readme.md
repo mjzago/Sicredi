@@ -4,7 +4,7 @@ Este repositório contém os códigos utilizados para conduzir uma pesquisa sobr
 
 ## Sobre o Projeto
 
-O projeto teve início em outubro de 2023, fazendo uso de dados disponíveis no Banco Central do Brasil (BACEN) referentes a todas as cooperativas de crédito operantes no Brasil naquele mês. A partir do arquivo `202310COOPERATIVAS.CSV`, foram extraídas informações sobre as cooperativas vinculadas ao Sistema Sicredi, totalizando 101 cooperativas.
+O projeto usa de dados disponíveis no Banco Central do Brasil (BACEN) de outubro de 2023 referentes a todas as cooperativas de crédito operantes no Brasil naquele mês. A partir do arquivo `202310COOPERATIVAS.CSV`, foram extraídas informações sobre as cooperativas vinculadas ao Sistema Sicredi, totalizando 101 cooperativas.
 
 Em seguida, utilizando os nomes das cooperativas, foi realizada uma raspagem no site institucional do Sicredi para descobrir a URL onde são salvos documentos como atas de assembleias e relatórios anuais. Esse processo foi automatizado com o uso de um script em Python, utilizando as bibliotecas Selenium e BeautifulSoup.
 
