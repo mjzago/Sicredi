@@ -55,6 +55,7 @@ Para executar os códigos, siga as instruções contidas nos comentários de cad
 ## Observações
 
 - Certifique-se de ter instalado todas as bibliotecas Python necessárias.
+- Certifique-se de ter o Chromedriver instalado para utilizar o Selenium com o Google Chrome (https://chromedriver.chromium.org/downloads)
 - O arquivo `202310COOPERATIVAS.CSV` deve estar presente no diretório de trabalho.
 - Os códigos foram desenvolvidos e testados em ambiente Python 3.x.
 
