@@ -20,6 +20,13 @@ Para executar os códigos, siga as instruções contidas nos comentários de cad
 - O arquivo `202310COOPERATIVAS.CSV` deve estar presente no diretório de trabalho.
 - Os códigos foram desenvolvidos e testados em ambiente Python 3.x.
 
+## To-Do
+
+- [ ] Organizar os arquivos baixados na raspagem de dados em uma pasta `data\downloads\`
+- [ ] Separar os arquivos baixos dos arquivos de texto na pasta `data\tratados\`
+- [ ] Desenvolver script para extrair informações dos arquivos .txt
+
+
 ## Autores
 
 Este projeto foi desenvolvido por [Matheus Zago](https://github.com/mjzago), [Ricardo Theodoro](https://github.com/rtheodoro) e Flávia Zancan, sob a orientação de Davi Rogério de Moura Costa.
