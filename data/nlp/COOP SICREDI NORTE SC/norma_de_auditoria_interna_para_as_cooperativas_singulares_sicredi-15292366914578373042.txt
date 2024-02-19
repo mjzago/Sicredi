@@ -1,0 +1,487 @@
+ 
+ Classificação da Informação – Uso Interno  
+EM APROVAÇÃO 
+ Norma  – Auditoria Interna  para as 
+Cooperativas Singulares  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Responsável  
+Denis Breuer  Cargo  
+Gerente de Auditoria Interna  Área  
+Gerência - Auditoria  Interna  
+Substitui e revoga  
+  
+Abrangência  
+ Período de Vigência  
+De: 17/10/2017  
+Até:  
+ 
+ 
+ EM APROVAÇÃO 
+NI_Sist_000062 62 Norma  – Auditoria Interna  
+ 
+ Classificação da Informação – Uso Interno  Página 2 de 16 
+ÍNDICE  
+1. OBJETIVO  ................................ ................................ ................................ ...................  4 
+2. DEFINIÇÕES  ................................ ................................ ................................ ..............  4 
+3. CARACTERÍSTIC AS, ESTRUTURA E MEMB ROS DA EQUIPE DE AUD ITORIA 
+INTERNA  ................................ ................................ ................................ .....................  4 
+3.1 Características  ................................ ................................ ................................ .. 4 
+3.2 Posição na Estrutura do Sicredi  ................................ ................................ ........  5 
+3.3 Membros da Equipe de Auditoria  ................................ ................................ ...... 5 
+3.3.1  Desempenho das atividades  ................................ ................................ .. 5 
+3.3.2  Vedações  ................................ ................................ ...............................  6 
+4. TRABALHO, PRAZO DE R ESPOSTA, ESCOPO  E PROCESSO DE AUDIT ORIA 
+INTERNA  ................................ ................................ ................................ .....................  6 
+4.1 Tipos de Trabalho  ................................ ................................ .............................  6 
+4.1.1  Auditoria de Compliance  ................................ ................................ ........  6 
+4.1.2  Auditoria de Riscos  ................................ ................................ ................  7 
+4.1.3  Auditoria Contínua  ................................ ................................ ..................  7 
+4.1.4  Auditoria de Escopo Específico  ................................ ..............................  7 
+4.2 Formalização dos Trabalhos  ................................ ................................ .............  8 
+4.2.1  Relatório de Auditoria Interna  ................................ ................................ . 8 
+4.2.2  Reporte de Auditoria Contínua - RAC  ................................ ....................  8 
+4.3 Prazos de Resposta  ................................ ................................ ..........................  8 
+4.4 Escopo  ................................ ................................ ................................ ..............  9 
+4.5 Processo de Auditoria Interna  ................................ ................................ ...........  9 
+4.5.1  Plano de Trabalho  ................................ ................................ ..................  9 
+4.5.2  Planejamento do Trabalho  ................................ ................................ ... 10 
+4.5.3  Programa de Trabalho  ................................ ................................ .........  10 
+4.5.4  Execução  ................................ ................................ .............................  10 
+4.5.4.1  Acessos  ................................ ................................ ...........................  11 
+4.5.5  Report e ao Conselho de Administração  ................................ ...............  11 
+4.5.6  Comunicação e Divulgação dos Resultados  ................................ ........  12 
+4.5.7  Acompanhamento das ações de regularização  ................................ ... 12  EM APROVAÇÃO 
+NI_Sist_000062 62 Norma  – Auditoria Interna  
+ 
+ Classificação da Informação – Uso Interno  Página 3 de 16 
+5. POLÍTICA DE REMUNERA ÇÃO E AUDITORIA INDE PENDENTE  ..........................  12 
+5.1 Política de Remuneração  ................................ ................................ ................  12 
+5.2 Auditoria Independente  ................................ ................................ ...................  13 
+6. PAPÉIS E RESPONSABIL IDADES  ................................ ................................ ..........  13 
+6.1 Conselho de Administração da Cooperativa Singular  ................................ ..... 13 
+6.2 Chefe da Atividade da Auditoria Interna  ................................ ..........................  13 
+6.3 Unidade de Auditoria Interna da Central  ................................ .........................  15 
+6.4 Diretoria Executiva da Cooperativa  ................................ ................................ . 16 
+7. BASE REGULATÓRIA / L EGISLAÇÃO APLICÁVEL  ................................ ................  16 
+8. DISPOSIÇÕES FINAIS  ................................ ................................ .............................  16 
+   EM APROVAÇÃO 
+NI_Sist_000062 62 Norma  – Auditoria Interna  
+ 
+ Classificação da Informação – Uso Interno  Página 4 de 16 
+1. OBJETIVO  
+Estabelecer as regras e a estrutura do processo de Auditoria Interna, de forma 
+compatível com os requisitos regulatórios, riscos envolvidos, natureza e complexidade 
+dos produtos, serviços e sistemas do Sicredi , para todas as Cooperativas Singulares 
+Filiadas, independente da segmentação em que a entidade estiver enquadrada . 
+2. DEFINIÇÕES  
+A Auditoria Interna é uma atividade independente e objetiva , de avaliação e de 
+consultoria, desenhada para adicionar valor e melhorar as operações de uma 
+organização. Ela auxilia uma organização a realizar seus objetivos a partir da 
+aplicação de uma abordagem sistemática e disciplinada para avaliar e melhorar a 
+eficácia dos processos de gerenciamento de riscos, controle e governança.  
+3. CARACTERÍSTICAS, EST RUTURA E MEMBROS DA EQUIPE 
+DE AUDITORIA INTERNA  
+3.1 Características  
+A Auditoria Interna deve ter como características essenciais:  
+• Ser independente das atividades audita das e estar livre de interferências 
+na determinação do seu escopo, na execução dos trabalhos e na 
+comunicação de resultados , de forma que viabilize o cumprimento de 
+suas responsabilidades. Na ocorrência de eventual interferência, esta 
+deve ser reportada ao  Presidente do Conselho de Administração  e, na 
+falta deste, ao  Diretor Presidente da respectiva Cooperativa Singular 
+para as providê ncias cabíveis ; 
+• Ser contínua e efetiva;  
+• Dispor de recursos suficientes para o desempenho dos trabalhos de 
+auditoria;  
+• Ter ca nais de comunicação definidos e eficazes, para relatar os achados 
+e avaliações decorrentes dos trabalhos de auditoria;   EM APROVAÇÃO 
+NI_Sist_000062 62 Norma  – Auditoria Interna  
+ 
+ Classificação da Informação – Uso Interno  Página 5 de 16 
+• Dispor de pessoal em quantidade suficiente, adequadamente treinado e 
+com conhe cimento e experiência necessários  para o exercício de suas 
+funções.  
+3.2 Posição na Estrutura do Sicredi  
+A atividade de auditoria interna da Cooperativa Singular é realizada pela 
+respectiva Central a qual é filiada. A Unidade de Auditoria Interna da Central 
+está vinculada à Diretoria de Supervisão, sendo o gestor respo nsável por área 
+de Auditoria Interna da Central nomeado o Chefe de Auditoria.  
+3.3 Membros da Equipe de Auditoria  
+3.3.1  Desempenho das atividades  
+Para o desempenho da atividade de Auditoria Interna, os membros da 
+equipe devem:  
+• Atuar com independência, autonomia, imparcialidade, zelo, 
+integridade e ética profissional;  
+• Ter competência profissional, incluindo o conhecimento e a 
+experiência de cada auditor interno e coletivamente, de forma que 
+a equipe de Auditoria Interna tenha capacidade de coletar, 
+entender, examin ar e avaliar as informações e de julgar os 
+resultados;  
+• Reportar -se e prestar contas ao Conselho de Administração  da 
+Cooperativa Singular  e ao comitê de auditoria, quando 
+constituído, sobre todas as questões relacionadas ao 
+desempenho de suas atividades . 
+ 
+A Cooperativa Singular deve garantir aos membros da equipe de Auditoria  
+Interna , no desempenho de suas atividades : 
+• Permanente canal de comunicação com a alta administração, que 
+permita que est á aja corretivamente, de forma apropriada e tempestiva, 
+em respos ta às recomendações decorrentes dos trabalhos de Auditoria 
+Interna;   EM APROVAÇÃO 
+NI_Sist_000062 62 Norma  – Auditoria Interna  
+ 
+ Classificação da Informação – Uso Interno  Página 6 de 16 
+• Autoridade para avaliar as funções próprias e as funções terceirizadas 
+da instituição ; 
+• Livre acesso a quaisquer informações da Cooperativa Singular . 
+3.3.2  Vedações  
+É vedado aos membros da audit oria interna:  
+• Envolver -se no desenvolvimento e implementação de medidas 
+específicas relativas aos controles internos;  
+• Atuar na auditoria de atividades pelas quais tenham tido 
+responsabilidade, antes de decorridos, no mínimo, 12 (doze ) 
+meses;  
+• Estabelecer o apetite de risco;  
+• Impor processos de gerenciamento de riscos;  
+• Garantir a administração de riscos;  
+• Decidir sobre as respostas aos riscos identificados ; 
+• Implantar as respostas aos riscos em nome da cooperativa 
+auditada ; 
+• Responsabilizar -se pelo gerenciamento de riscos;  
+• Resolver o risco.  
+4. TRABALHO, PRAZO DE R ESPOSTA, ESCOPO E 
+PROCESSO DE AUDITORI A INTERNA  
+4.1 Tipos de Trabalho  
+O processo de Auditoria Interna é desenvolvido por meio da realização de 
+trabalhos com características e objetivos distintos.  
+Os trabalhos de  Auditoria  Interna  são executados de acordo com o respectivo 
+Plano Anual das atividades. Os principais tipos são:  
+4.1.1  Auditoria de Compliance  
+É o trabalho de auditoria que tem como objetivo avaliar a conformidade 
+e a observância da legislação, normativos e reg ramentos internos e  EM APROVAÇÃO 
+NI_Sist_000062 62 Norma  – Auditoria Interna  
+ 
+ Classificação da Informação – Uso Interno  Página 7 de 16 
+externos vigentes aplicáveis aos processos e procedimentos 
+estabelecidos.  
+4.1.2  Auditoria de Riscos  
+É o trabalho de auditoria que visa fornecer uma avaliação objetiva da 
+estrutura e da eficácia do gerenciamento de riscos e dos controles 
+internos nas entidades do sistema.  
+Este trabalho utiliza como principal referência os riscos e processos 
+mapeados, os quais não limitam necessariamente o alcance e escopo 
+das verificações da auditoria. Tem como objetivo identificar e antecipar 
+situações de expo sição a riscos possibilitando à instituição implementar 
+tempestivamente medidas corretivas e preventivas que mitiguem 
+significativas perdas financeiras.  
+4.1.3  Auditoria Contínua  
+É um conjunto de procedimentos de análise de dados e testes indiretos 
+com o objetivo  principal de identificar de forma contínua e tempestiva 
+exceções, anomalias, tendências e indicadores de riscos, a partir de 
+relatórios automatizados, sem a necessidade de avaliação presencial 
+em campo.  
+Permite maior cobertura e extensão das análises, re porte frequente e 
+oportuno das fraquezas dos processos bem como priorização das ações 
+de regularização.  
+4.1.4  Auditoria de Escopo Específico  
+São os trabalhos realizados com escopo específico e aprofundado de 
+auditoria, podendo ser demandados pela administração d a Cooperativa 
+Singular ou por necessidade identificada pela própria Auditoria Interna. 
+Exemplos: Auditoria de Fraude, Auditoria de Remuneração Variável, 
+Auditoria de Campanhas, etc.   EM APROVAÇÃO 
+NI_Sist_000062 62 Norma  – Auditoria Interna  
+ 
+ Classificação da Informação – Uso Interno  Página 8 de 16 
+4.2 Formalização dos Trabalhos  
+Os resultados dos diversos tipos de trabalhos d e Auditoria Interna são 
+registrados e documentados formalmente. Os principais documentos emitidos 
+são: 
+4.2.1  Relatório de Auditoria Interna  
+O relatório é o documento pelo qual a Auditoria Interna apresenta o 
+resultado dos seus exames, devendo ser redigido com ob jetividade e 
+imparcialidade, de forma a expressar, claramente, suas conclusões, 
+recomendações e providências a serem tomadas pela administração da  
+Cooperativa Singular . O Relatório de Acompanhamento e o Relatório 
+Anual  de Auditoria Interna são contemplados  neste tipo de documento.  
+4.2.2  Reporte de Auditoria Contínua - RAC  
+O reporte apresenta o resultado de situações que apresentem indícios 
+de não -conformidades durante o processo de Auditoria Contínua e 
+acompanhamento indireto. Poderá ser emitido sempre que sejam 
+necessárias providências imediatas da administração  da Cooperativa 
+Singular . 
+4.3 Prazos de Resposta  
+O prazo para resposta formal aos Relatórios de Auditoria Interna é de 30  (trinta ) 
+dias corridos , contados a partir da data de publicação, compreendendo a 
+elabor ação dos planos de ação, prazos de regularização e a indicação de 
+responsável pela execução.  
+Os prazos para resposta formal aos Reportes de Auditoria Contínua (RAC) 
+podem variar de 1 (um) a 7 (sete) dias úteis, contados a partir da data de 
+publicação, comp reendendo a elaboração dos planos de ação, prazos de 
+regularização e a indicação de responsável pela execução.   EM APROVAÇÃO 
+NI_Sist_000062 62 Norma  – Auditoria Interna  
+ 
+ Classificação da Informação – Uso Interno  Página 9 de 16 
+4.4 Escopo  
+O escopo da Auditoria Interna baseia -se na avaliação independente quanto às 
+práticas de gestão de riscos e controles , bem como dos process os de 
+governança, estabelecidos no Sicredi.  
+A avaliação da Auditoria Interna deve considerar  o atendimento integral ao 
+disposto na  regulamentação especifica do órgão regulador  e dentre outros 
+aspectos, a capacidade da Cooperativa Singular  de: 
+• Identificar e  gerenciar adequadamente seus riscos;  
+• Cumprir com as normas oficiais e internas;  
+• Promover a conduta ética na definição de seus objetivos, programas, 
+atividades e negócios;  
+• Suportar as estratégias e objetivos do Sicredi por meio de adequada 
+governança dos processos, inclusive do processo de Tecnologia da 
+Informação;  
+• Buscar a qualidade e aprimoramento contínuo de seus processos e 
+controles.  
+Os padrões mínimos dos trabalhos devem estar dispostos nos manuais 
+específicos relativos ao processo de execução das au ditorias.  
+4.5 Processo de Auditoria Interna  
+O processo de Auditoria Interna é composto pelas seguintes etapas:  
+4.5.1  Plano de Trabalho  
+A Auditoria Interna deve estabelecer um Plano de Trabalho, no mínimo 
+anual, determinando as prioridades da atividade de Auditoria I nterna, de 
+forma consistente com a regulamentação vigente e metas da 
+organização.  
+O Plano de Auditoria Interna bem como os requerimentos de recursos 
+devem ser encaminhados ao Conselho de Administração  da Cooperativa 
+auditada , ou na ausência deste à diretoria,  e ao Comitê de Auditoria, 
+quando constituído, para análise e aprovação. Alterações significativas  EM APROVAÇÃO 
+NI_Sist_000062 62 Norma  – Auditoria Interna  
+ 
+ Classificação da Informação – Uso Interno  Página 10 de 16 
+bem como o impacto de eventuais limitações de recursos também 
+devem seguir o mesmo fluxo.  
+4.5.2  Planejamento do Trabalho  
+O planejamento do trabalho inclu i os objetivos, o escopo, o prazo e a 
+alocação de recursos do trabalho.  
+No planejamento dos trabalhos devem ser considerados:  
+• As estratégias e objetivos para os processos que serão avaliados 
+e as formas de controle de seu desempenho;  
+• Os riscos significativ os para os processos;  
+• A adequação e a eficácia da governança, do gerenciamento de 
+riscos e dos processos, controles e produtos.  
+4.5.3  Programa de Trabalho  
+O programa de trabalho deve incluir os procedimentos para identificar, 
+analisar, avaliar e documentar as in formações conforme escopo definido 
+no planejamento do trabalho.  
+4.5.4  Execução  
+Na execução dos trabalhos devem ser identificadas informações 
+suficientes, confiáveis, relevantes e úteis para cumprir os objetivos do 
+trabalho da Auditoria  Interna . As conclusões e r esultados dos trabalhos 
+devem ser baseadas em análises e avaliações apropriadas.  
+A Auditoria Interna utilizará metodologia própria na execução dos 
+trabalhos que desempenha, devendo ser submetida à aprovação por 
+alçada competente.  
+Na realização da atividade  de Auditoria Interna, devem ser observadas 
+as normas e procedimentos de auditoria estabelecidos pelo Conselho 
+Monetário Nacional, pelo Banco Central do Brasil e, no que não for 
+conflitante com estes, aqueles determinados pelo Conselho Federal de 
+Contabili dade e pelo Instituto dos Auditores Internos do Brasil.   EM APROVAÇÃO 
+NI_Sist_000062 62 Norma  – Auditoria Interna  
+ 
+ Classificação da Informação – Uso Interno  Página 11 de 16 
+4.5.4.1  Acessos  
+Os profissionais da Auditoria Interna, durante o desempenho de suas 
+atribuições, estão autorizados a:  
+• Acessar as dependências: ter acesso livre a todas as 
+dependências da Cooperativa Singular , e acesso controlado às 
+áreas de segurança, onde devem ser recepcionados e 
+acompanhados pelo gestor da área;  
+• Acessar as informações e pessoas: ter livre acesso às 
+informações, registros, sistemas e pessoas necessárias à 
+realização de suas atividades;  
+• Obter assistência necessária dos colaboradores da instituição.  
+Os documentos e informações acessados serão tratados de maneira 
+confidencial. Os pap éis de trabalho são restritos à Auditoria Interna. 
+O acesso físico e/ou eletrônico por terceiros  aos pap éis de trabalho  
+deve ser efetuado nas dependências da Auditoria Interna, mediante 
+aprovação do responsável pela  atividade de  Auditoria Interna . 
+Os documentos e informações requisitados pela Auditoria Interna não 
+devem sofrer qualquer tipo de alteração que poss a impactar a 
+conclusão da auditoria.  
+4.5.5  Reporte ao Conselho de Administração  
+A Auditoria Interna deve reportar periodicamente ao Conselho de 
+Administração  da entidade auditada, ou na ausência deste à diretoria,  
+sobre as suas atividades, o desempenho em relaçã o ao seu programa, 
+os resultados obtidos, conformidade normativa  e efetividade da resposta 
+da administração aos riscos. Os reportes devem também incluir 
+questões de riscos e de controles relevantes , incluindo os riscos de 
+fraude, os assuntos de governança e outros assuntos que requerem a 
+atenção da alta administração e/ou dos conselhos.   EM APROVAÇÃO 
+NI_Sist_000062 62 Norma  – Auditoria Interna  
+ 
+ Classificação da Informação – Uso Interno  Página 12 de 16 
+4.5.6  Comunicação e Divulgação dos Resultados  
+A comunicação deve incluir os objetivos, escopo, resultados, conclusões 
+aplicáveis e recomendações, levando em consideração as expect ativas 
+do Conselho de Administração da Cooperativa Singular e outras partes 
+interessadas e deve estar suportada por informação suficiente, confiável, 
+relevante e útil.  
+O responsável pela Auditoria Interna deve comunicar os resultados às 
+partes apropriadas,  revisando e aprovando a comunicação final do 
+trabalho da auditoria antes da sua emissão. Além disso, decidir a quem 
+e como ela será disseminada, de forma que a divulgação alcance as 
+partes que possam assegurar que os resultados recebam a devida 
+consideraç ão. 
+Ao divulgar os resultados do trabalho para partes externas à 
+organização, a comunicação deve conter limitações sobre a distribuição 
+e o uso dos resultados.  
+4.5.7  Acompanhamento das ações de regularização  
+A Auditoria Interna deve estabelecer um processo de acompanhamento 
+para monitorar se as ações de regularização estão sendo  efetivamente 
+implantadas pela administração ou que o risco de não tomar nenhuma 
+ação tenha sido aceito, de acordo com as alçadas competentes.  
+5. POLÍTICA DE REMUNERA ÇÃO E AUDITORIA 
+INDEPENDE NTE 
+5.1 Política de Remuneração  
+A Política de Remuneração dos membros da equipe de Auditoria Interna deve 
+ser determinada independentemente do desempenho das áreas de negócios, 
+de forma a não gerar conflito de interesses e deve contemplar os aspectos 
+próprios relativos a atividade de Auditoria Interna.   EM APROVAÇÃO 
+NI_Sist_000062 62 Norma  – Auditoria Interna  
+ 
+ Classificação da Informação – Uso Interno  Página 13 de 16 
+5.2 Auditoria Independente  
+O relacionamento da Auditoria Independente com a Auditoria Interna deve levar 
+em consideração os resultados dos trabalhos que podem ser utilizados como 
+complemento de suas análises, podendo  solicitar e/ou prestar esclarecimentos 
+adicionais, quando necessário.  
+6. PAPÉIS E RESPONSABIL IDADES  
+6.1 Conselho de Administração da Cooperativa  Singular  
+• Aprovar o Plano Anual de Auditoria Interna e o Relatório Anual de 
+Auditoria Interna;  
+• Assegurar a independênc ia e a efetividade da atividade de Auditoria 
+Interna;  
+• Prover os meios necessários para que a atividade de Auditoria Interna 
+seja exercida adequadamente;  
+• Informar tempestivamente os responsáveis pela atividade de Auditoria 
+Interna quando da ocorrência de q ualquer mudança material ocorrida na 
+estratégia, nas políticas e nos processos de gestão de riscos da 
+Cooperativa  Singular ; 
+• Apreciar os aspectos relevantes identificados pela Auditoria Interna bem 
+como os respectivos planos e ações de regularização . 
+6.2 Chefe da Atividade da Auditoria Interna  
+• Conduzir a atuação da Unidade  de Auditoria Interna da Central por meio 
+de diretrizes estratégicas, considerando a padronização e unicidade dos 
+processos sistêmicos;  
+• Avaliar proposições emanadas no âmbito sistêmico acerca d os 
+procedimentos e normativos relacionados a Auditoria Interna realizando 
+os encaminhamentos necessários;  
+• Avaliar e revisar o Plano de Trabalho da Unidade  de Auditoria Interna da 
+Central;   EM APROVAÇÃO 
+NI_Sist_000062 62 Norma  – Auditoria Interna  
+ 
+ Classificação da Informação – Uso Interno  Página 14 de 16 
+• Recomendar ao Conselho de Administração da Central, aprovação do 
+Plano de Trabalho da Unidade  de Auditoria Interna da Central;  
+• Analisar o conteúdo dos relatórios de Auditoria Interna bem como as 
+recomendações e os correspondentes planos de ação, no que se refere 
+às Cooperativas Singulares Filiadas ; 
+• Avaliar a confiabilidad e e a integridade das informações e os meios 
+usados para identificar, mensurar, classificar e reportar tais informações;  
+• Avaliar os sistemas estabelecidos para garantir a conformidade com as 
+políticas, planos, procedimentos, leis e regulamentos que poderia m ter 
+impacto significativo na organização;  
+• Avaliar os meios de salvaguardar os ativos e, conforme apropriado, 
+verificar a existência de tais ativos;  
+• Avaliar a eficácia e a eficiência com as quais os recursos são utilizados;  
+• Avaliar as operações ou program as para verificar se os resultados são 
+consistentes com as metas e objetivos estabelecidos e se as operações 
+ou programas estão sendo conduzidos conforme planejado;  
+• Monitorar e avaliar os processos de governança;  
+• Monitorar e avaliar a eficácia dos processo s de gerenciamento de riscos 
+da organização;  
+• Avaliar a qualidade do desempenho dos auditores externos e o grau de 
+coordenação com a Auditoria Interna;  
+• Reportar periodicamente o objetivo, a autoridade, a responsabilidade e 
+o desempenho da atividade de audit oria interna em relação ao seu plano;  
+• Reportar ao Conselho de Administração  da Cooperativa  Singular  
+exposições significativas a riscos e questões de controle, incluindo riscos 
+de fraude, questões de governança e outros assuntos necessários ou 
+solicitados p or este;  
+• Avaliar operações específicas a pedido do Conselho de Administração  
+da Cooperativa  Singular .  EM APROVAÇÃO 
+NI_Sist_000062 62 Norma  – Auditoria Interna  
+ 
+ Classificação da Informação – Uso Interno  Página 15 de 16 
+6.3 Unidade  de Auditoria Interna da Central  
+• Elaborar o Plano de Trabalho nos processos executados pelas 
+Cooperativas Singulares Filiadas , submetendo -o às apro vações 
+necessárias, inclusive considerando o requerido pelo órgão regulador ; 
+• Executar o Plano de Trabalho aprovado;  
+• Observar os alinhamentos sistêmicos quanto aos processos de Auditoria 
+Interna;  
+• Participar do desenvolvimento e atualização sistêmica de regr as, 
+processos, ferramentas e governança necessários para suportar o 
+processo de Auditoria  Interna ; 
+• Participar do planejamento de treinamentos técnicos sistêmicos 
+direcionados às Unidades  de Auditoria Interna;  
+• Elaborar Plano Anual de Auditoria Interna, base ado na avaliação de 
+riscos de auditoria, contendo, pelo menos, os processos que farão parte 
+do escopo da atividade de Auditoria Interna, a classificação desses 
+processos por nível de risco, a proposta de cronograma e de alocação 
+dos recursos disponíveis;  
+• Elaborar para cada trabalho específico da atividade de auditoria:  
+a) planejamento (plano específico) do trabalho, com definição do 
+escopo, do cronograma e dos fatores relevantes na execução do 
+trabalho, como a natureza, a oportunidade e a extensão dos 
+procedi mentos de auditoria interna a serem aplicados, a alocação de 
+recursos humanos e a disponibilidade de orçamento apropriado para 
+a execução;  
+b) papéis de trabalho, com registro dos fatos, informações e provas 
+obtidos no curso da auditoria, a fim de evidenciar os exames 
+realizados e justificar as conclusões e recomendações; e  
+c) relato das conclusões e das recomendações decorrentes dos 
+trabalhos de auditoria interna;  
+• Elaborar relatório de acompanhamento das providências tomadas para 
+atendimento às recomendações; e   EM APROVAÇÃO 
+NI_Sist_000062 62 Norma  – Auditoria Interna  
+ 
+ Classificação da Informação – Uso Interno  Página 16 de 16 
+• Elaborar Relatório Anual de Auditoria Interna, contendo o sumário dos 
+resultados dos trabalhos de auditoria, suas principais conclusões, 
+recomendações e providências tomadas pela administração da 
+Cooperativa  Singular . 
+6.4 Diretoria Executiva  da Cooperativa  
+• Apreciar o resultado dos trabalhos de Auditoria Interna manifestando -se 
+acerca das ações de regularização para os apontamentos identificados, 
+dentro dos prazos estabelecidos.  
+7. BASE REGULATÓRIA / L EGISLAÇÃO APLICÁVEL  
+• Resolução CMN 2.554/1998;  
+• Resolução CMN 3 .198/2004;  
+• Circular BACEN 3.400/2008;  
+• Carta -Circular BACEN 3.337/2008;  
+• Resolução CMN 4.434/2015;  
+• Resolução CMN 4.588/2017 . 
+8. DISPOSIÇÕES FINAIS  
+A área de Auditoria Interna da Confederação Sicredi é a responsável pela 
+coordenação e condução da revisão dos nor mativos internos referentes aos assuntos 
+tratados neste documento.  

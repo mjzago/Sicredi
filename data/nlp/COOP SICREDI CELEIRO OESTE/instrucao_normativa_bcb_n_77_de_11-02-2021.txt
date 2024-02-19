@@ -1,0 +1,574 @@
+4:.
+l4,_v
+
+BANCO CENTRAL DO BRASIL
+
+Instrugéio Normativa BCB n° 77 de 11/ 2/ 2021
+
+Verséo vigente, atualizada em 31/3/2022
+
+INSTRUCAO NORMATIVA BCB N9 77, DE 11 DE FEVEREIRO DE 2021
+
+Estabelece procedimentos relativos ao envio de documentos e informac;6es, de respostas a
+exigéncias e de interposigao de recursos, a formalizagao de exigencias, a comunicagao da decisao
+e as demais comunicagoes relacionadas com a instrugao e com 0 exame de processos de
+autorizagao conduzidos pelo Departamento de Organizagao do Sistema Financeiro (Deorf), e da
+outras providéncias.
+
+O Chefe do Departamento de Organizagao do Sistema Financeiro (Deorf), no uso da atribuigao que Ihe confere 0 art. 23,
+inciso I, alinea "a", do Regimento lnterno do Banco Central do Brasil, anexo a Portaria n9 84.287, de 27 de fevereiro de 2015, e tendo em
+conta o disposto no art. 40 da Lei n9 9.784, de 29 de janeiro de 1999,
+
+R E S O L V E :
+Procedimentos para instrugﬁo de pleitos, respostas a exigéncias e interposigéo de recursos
+
+Art. 19 As instituigoes ﬁnanceiras, as demais instituir;6es autorizadas a funcionar pelo Banco Central do Brasil, as instituigoes
+integrantes do Sistema de Pagamentos Brasileiro (SPB), e os demais interessados nos pleitos elencados na Segao 3.4.20 do Manual de
+Organizagao do Sistema Financeiro (Sisorf), para ﬁns de instrugao dos processos de autorizagao cuja analise técnica seja conduzida pelo
+Departamento de Organizagao do Sistema Financeiro (Deorf), devem encaminhar, por meio do sistema Protocolo Digital do Banco Central
+(Protocolo Digital), disponivel no sitio desta Autarquia na internet:
+
+I — os documentos e as informagoes previstos na regulamentagao pert1'nente;e
+ll ~ as respostas as exigéncias e os recursos interpostos em razao do indeferimento dos pleitos.
+
+Paragrafo unico. As respostas as exigéncias e os recursos interpostos, de que trata o inciso ll deste artigo, quando nao
+acompanhados por documentos anexos, devem ser encaminhados por meio do Sistema de Correio Eletronico do Banco Central (BC
+Correio) e fazer referéncia ao oﬁcio que tiver formalizado a exigéncia ou que ﬁver comunicado a decisao, nos termos do art. 89, e ao
+ndmero do Processo Administrativo Eletronico (PE) instaurado para a analise do pleito.
+
+Art. 29 O acesso ao Protocolo Digital deve ser realizado por meio da conta de usuario institucional cadastrada no Sistema de
+
+lnformagoes Banco Central (Sisbacen).
+
+Paragrafo U|’llCO. Na hipotese de instrugao de pleitos de autorizagao para funcionamento, de representagao de instituigao
+ﬁnanceira estrangeira ou de registro de gestor de banco de dados de que trata a Lei n9 12.414, de 9 de junho de 2011, o acesso deve ser
+realizado por meio de conta de usuario pessoa ﬁsica obtida por autocredenciamento no Sistema Registrato — Extrato do Registro de
+lnformagoes do Banco Central.
+
+Art. 39 Os documentos e as informagoes devem ser protocolados individualmente e na ordem em que estiverem
+
+apresentados:
+
+I — na lista de documentos e informagoes necessarios a instrugao de processos, constante do modelo de requerimento
+relativo ao tipo de pleito a ser apresentado, de que trata 0 Titulo 8 do Sisorf, disponivel para acesso na pagina do Banco Central do Brasil
+na internet;
+
+ll ~ no oﬁcio de exigéncias formalizadas pelo Deorf;
+III — no texto do recurso.
+
+§ 19 Os documentos e as informar;6es relacionados ao mesmo pleito devem ser associados ao requerimento ou, no caso de
+resposta a exigéncias ou de recurso, ao primeiro documento protocolado, mediante a utilizagao da funcionalidade de vinculagao
+disponivel no Protocolo Digital.
+
+§ 29 Na hipotese de 0 pleito a ser apresentado nao contar com modelo de requerimento estabelecido pelo Sisorf, os
+documentos e as informagoes deverao ser protocolados na ordem em que estiverem apresentados na regulamentagao pertinente ao tipo
+de pleito.
+
+§ 39 Os requerimentos, cartas, oﬁcios, autorizacoes e declaracoes direcionados ao Deorf deverao conter nome, numero de
+inscricao no CPF e respectiva assinatura digital dos subscritores. (lncluido, a partir de 19/4/2O22,_pela lnstrucao Normativa BCB n9 231, de
+
+25/1/2022.) <https://www.bcb.gov.br/estabilidadeﬁnanceira/exibenormativo?
+tipo=|nstru%C3%A7%C3%A3o%20Normativa%20BCB&numero=231>
+
+§ 49 A assinatura digital dos documentos de que trata 0 § 39 deve ser realizada por meio de: (lncluidqapartir de 19/4/2022,
+pela lnstrucao Normativa BCB n9 231, de 25/1/2022.) <https://www.bcb.gov.br/estabilidadeﬁnanceira/exibenormativo?
+tipo=|nstru%C3%A7%C3%A3o%20Normativa%20BCB&numero=231>
+
+I — certiﬁcado digital emitido por Autoridade Certiﬁcadora da |CP—Brasil, no padrao PAdES; ou _(|ncluido,ipartir de 19/4/2022,
+pela lnstrucao Normativa BCB n9 231, de 25/1/2022.) <https:[/www.bcb.gov.br/estabilidadeﬁnanceira/exibenormativo?
+tipo=|nstru%C3%A7%C3%A3o%20Normativa%20BCB&numero=231>
+
+ll — conta gov.br com nivel de seguranga e acesso prata ou ouro. (lncluido, a partir de 19/4/2022,_pe|a lnstrucao Normativa
+BCB n9 231, de 25/1/2022.) <https://www.bcb.gov.br/estabilidadeﬁnanceira/exibenormativo?
+tipo=|nstru%C3%A7%C3%A3o%20Normativa%20BCB&numero=231>
+
+Art. 49 O envio dos documentos e informagoes deve ser realizado mediante o preenchimento dos seguintes campos da tela
+inicial do Protocolo Digital:
+
+I — "Descricao";
+
+ll ~ "Numero do Processo Administrativo Eletronico — PE", se houver;
+
+III — "Assunto"; e
+
+IV ~ "Destino".
+
+§ 19 No caso de instrugao inicial de pleitos de autorizacao para funcionamento, o campo "Descrigao" deve ser preenchido:
+I — para o requerimento, primeiro documento a ser protocolado, com os componentes: "lnstituicao — Tipo de pleito"; e
+
+ll — para os demais documentos associados ao pleito, protocolados em sequéncia, com os componentes: "Instituicao — Tipo
+de documento — Nome da pessoa ﬁsica ou denominacao social da pessoa juridica (se aplicavel)".
+
+§ 29 No caso de instrugao inicial dos demais tipos de pleito, o campo "Descrigao" deve ser preenchido:
+
+I — para o requerimento, primeiro documento a ser protocolado, com os componentes: "CNPJ — lnstituicao ~ Dados do Ato
+Societario — Tipo de pleito"; e
+
+ll — para os demais documentos associados ao pleito, protocolados em sequéncia, com os componentes: "CNPJ ~ Tipo de
+documento — Nome da pessoa ﬁsica ou denominacao social da pessoa juridica (se aplicavel)".
+
+§ 39 Na apresentacao de resposta a exigéncias ou de recurso, o campo "Descrigao" deve ser preenchido:
+I — para o primeiro documento a ser protocolado, com os componentes: "CNPJ (se houver) ~ lnstituigao ~ Conteiido"; e
+
+ll ~ para os demais documentos associados, protocolados em sequéncia, com os componentes: "CNPJ (ou, na falta deste,
+"|nstituicao") — Tipo de documento — Nome da pessoa ﬁsica ou denominacao social da pessoa juridica (se aplicavel)".
+
+§ 49 Para compor o campo "Descricao", referido neste artigo, a instituicao ou seu representante deve considerar que o
+componente:
+
+I — "CNPJ" corresponde ao numero de inscricao (oito primeiros digitos) da instituicao titular do pleito no Cadastro Nacional de
+Pessoa Juridica (CNPJ), com o formato nn.nnn.nnn;
+
+ll ~ "lnstituicao" corresponde:
+
+a) ao nome fantasia ou a sigla ou a denominacao social pretendida pela instituicao pleiteante, no caso dos pleitos referidos
+no §19 deste artigo, com excecao das instituicoes de pagamento e dos instituidores de arranjos de pagamento, que devem observar o
+disposto na alinea "b" deste inciso; ou
+
+b) ao nome fantasia ou a sigla ou a denominacao social da instituicao titular do pleito, nos demais casos;
+
+III — "Dados do ato societario" corresponde, quando aplicavel, a sigla e a data do ato societario que estiver relacionado ao
+pleito apresentado;
+
+IV — "Tipo de pleito" corresponde ao tipo de pleito de autorizacao apresentado, conforme especiﬁcado na Secao 3.4.20 do
+Sisorf;
+
+V — "ConteL'ido" corresponde, quando aplicavel, a indicacao de que o documento encaminhado se refere a resposta a uma
+
+exigéncia ou a um recurso;
+
+VI — "Tipo de documento" corresponde ao resumo do texto descritivo dos documentos e informacoes necessarios a instrucao
+de processos relacionados na lista constante do modelo de requerimento de que trata o Titulo 8 do Sisorf, relativo ao tipo de pleito a ser
+apresentado, observado 0 disposto no §29 do art. 39, ou do oﬁcio de exigéncias formalizadas pelo Deorf ou do texto do recurso, conforme
+
+o caso; e
+
+VII — "Nome da pessoa ﬁsica ou denominacao social da pessoa juridica" corresponde ao nome da pessoa ﬁsica ou a
+denominacao social da pessoa juridica relacionada ao documento, no caso de documentos e informacoes relativos a integrantes do grupo
+de controle, a detentores de participacao qualiﬁcada ou a pessoas eleitas ou nomeadas para o exercicio de cargo em orgao societario.
+
+§ 59 O campo "Assunto" deve ser preenchido mediante a selecao da opcao "Autorizacoes e Licenciamentos para Instituicoes
+
+Supervisionadas e para Integrantes do SPB".
+
+§ 69 O campo "Destino" deve ser preenchido mediante a selecao do componente organizacional do Deorf ao qual o pleito
+
+deve ser apresentado, conforme relacao disponivel na Subsecao 3.4.30.12 do Sisorf.
+
+§ 79 Os exemplos e os padr6es a serem observados para preenchimento do campo "Descricao" constam do Anexo I a esta
+
+Instrucao Normativa.
+
+Art. 59 Os pleitos cuja instrucao, inclusive no que se refere as respostas as exigéncias formalizadas, tenha sido protocolizada
+de forma incompleta, intempestiva ou em desacordo com 0 formato exigido, estarao sujeitos a arquivamento, consideradas as
+
+particularidades do caso concreto.
+Paragrafo unico. O disposto neste artigo também pode ser aplicado quando apurada alguma das seguintes ocorréncias:
+I — envio de documentos e informacoes em desacordo ao disposto nos artigos 29, 39 e 49 desta Instrucao Normativa;
+
+II — nao envio ou envio incorreto ou incompleto dos modelos de requerimento, de declaracao, de autorizacao e de formulario
+
+cadastral, disponiveis no Sisorf;
+
+III — auséncia de registros obrigatorios ou registros obrigatorios incorretos no Sistema de Informacoes de Interesse do Banco
+Central (Unicad);
+
+IV — nao recebimento de mensagem encaminhada pelo Deorf na forma do art. 89, em ate 5 dias Ljteis, contados da data de
+
+sua emissao;
+V — envio de requerimentos ou documentos sem assinaturas;
+
+VI — nao envio dos arquivos de Estatutos ou Contratos Sociais no formato ".rtf" por meio do Sistema de Transferéncia de
+Arquivos (STA);
+
+VII — nao envio ou envio incorreto ou incompleto do Mapa de Composicao de Capital, por meio do STA; ou
+
+VIII — nao envio das planilhas eletronicas com informacoes para a analise da viabilidade economico—ﬁnanceira do
+
+empreendimento pretendido.
+
+Art. 69 Excepcionalmente, nos pleitos em que for necessario o envio de planilhas ou outros tipos de arquivos, nao
+suportados pelo Protocolo Digital, a pessoa ou instituicao deve entrar em contato com o componente do Deorf a qual a instituicao esta
+jurisdicionada, conforme relacao disponivel na Subsecao 3.4.30.12 do Sisorf.
+
+Art. 79 Em caso de indisponibilidade, ou qualquer outro problema técnico no Protocolo Digital, a pessoa ou instituicao deve
+contatar a Central de Atendimento de TIC do BCB, pelo telefone (61) 3414-2156 ou pelo e—mail suporte.ti@bcb.gov.br.
+
+Procedimentos para formalizacao de exigéncias, comunicacao de decisées e de comunica;6es em geral pelo Deorf
+
+Art. 89 A formalizacao de exigéncias, a comunicacao da decisao tomada e as demais comunicacoes relacionadas com a
+instrucao e com o exame de processos de autorizacao conduzidos pelo Deorf serao realizadas mediante oﬁcio assinado digitalmente por
+
+servidor competente e encaminhado:
+
+I — a instituicao requerente, por mensagem do BC Correio, no caso de processos em que o titular do pleito seja instituicao
+autorizada a funcionar pelo Banco Central do Brasil; e
+
+II — quando se tratar de formalizacao de exigéncias, ao endereco eletronico (e—mail) das seguintes pessoas ﬁsicas:
+a) no caso de instituicao requerente de autorizacao para funcionamento:
+
+1. o(s) representante(s) da requerente;
+
+2. o(s) pretenso(s) controlador(es); ou
+
+3. o(s) pretenso(s) detentor(es) de participacao qualiﬁcada; e
+
+b) no caso de instituicao autorizada a funcionar pelo Banco Central do Brasil:
+
+1. as pessoas referidas na alinea "a";
+
+2. o(s) prc'>prio(s) controladores; ou
+3. o(s) prc'>prio(s) detentor(es) de participacao qualiﬁcada.
+
+§ 19 A mensagem encaminhada na forma do inciso ll devera conter a indicacao do /in/< para acesso ao oﬁcio referido no
+caput.
+
+§ 29 As comunicacoes as instituicoes que nao possuam acesso ao BC Correio serao realizadas na forma mencionada no
+inciso II, alinea "b", do caput deste artigo.
+
+§ 39 O envio do link de que trata o inciso ll do caput deste artigo somente sera realizado para o e—mai| das pessoas ﬁsicas
+que tiverem realizado o autocredenciamento no Registrato.
+
+§ 49 O oﬁcio referido no caput deste artigo deve:
+
+I — ter como anexo o estatuto ou contrato social aprovado, na hipotese de haver sido deliberada reforma estatutaria ou
+alteracao contratual; e
+
+ll — conter a relacao dos eleitos ou nomeados cujos nomes tenham sido aprovados para exercer cargo em orgao estatutario
+ou contratual, no caso de pleitos relativos a eleicao ou a nomeacao dessas pessoas.
+
+§59 A critério do Deorf, as exigéncias e as demais comunicacoes referidas no caput deste artigo poderao ser formalizadas
+exclusivamente por mensagem no BC Correio, sem envio de oﬁcio.
+
+Disposigées gerais e transitérias
+
+Art. 99 O remanejamento de membros de orgaos societarios deve ser comunicado ao componente do Deorf responsavel por
+meio do BC Correio, informando os dados do ato societario correspondente.
+
+Art.10. Fica revogada a Carta Circular n9 4.074, de 24 de julho de 2020.
+
+Art.11. Esta Instrucao Normativa entra em vigor em 19 de marco de 2021.
+
+JOSE REYNALDO DE ALMEIDA FURLANI
+
+Anexo I
+Exemplos de Descrigao de documentos para instrucao de processos:
+
+Seguem abaixo exemplos de forma de preenchimento do campo "Descricao" da tela do Protocolo Digital, para cada
+
+documento protocolado, conforme disposto no art. 49 desta Instrucao Normat1‘va,apresentados na seguinte ordem:
+
+1. Autorizacao para funcionamento de Banco l\/|LJ|t1'p|o;
+
+2. Autorizacao para funcionamento de Sociedade de Crédito Direto;
+
+3. Autorizacao para funcionamento de lnstituicao de Pagamento;
+
+4. Aprovacao de eleicao e de reforma estatutaria;
+
+5. Aprovacao de aumento de capital;
+
+6. Resposta a exigéncia;
+
+7. lnterposicao de recurso.
+
+Exemplo 1:
+Tipo do pleito: Autorizacao para funcionamento de Banco Multiplo
+
+Modelo Sisorf 8.1.10.44: REQUERIMENTO - MANIFESTACIXO FAVORAVEL A PROPOSTA DE EMPREENDIMENTO RELATIVO A
+CONSTITUICIXO DE iNsTiTLJI(;/So
+
+Denominacao social pretendida pela instituicao pleiteante: Banco ABCD S.A.
+Nome fantasia ou sigla pretendida: Banco ABCD
+
+Nome do controlador ou detentor de participacao qualiﬁcada: "José Abcd"
+Campo "Descric;ao" de cada documento:
+
+1. Requerimento, primeiro documento a ser protocoladoc
+
+"Banco ABCD ~ Autorizacao para funcionamento";
+
+2. Demais documentos vinculados ou associados ao primeiro documento, constantes no requerimento:
+
+a) "BANCO ABC) ~ ldentiﬁcagao dos controladores e detentores de participagao qualiﬁcada";
+b) "BANCO ABC) — Minuta da declaragao de proposito";
+
+c) "BANCO ABC) — Indicagao forma de controle societario";
+
+d) "BANCO ABC) — Sumario executivo";
+
+e) "BANCO ABC) — Declaragao ~ Jose Abcd";
+
+f) "BANCO ABCD — Demonstragao do conhecimento do negocio — José Abcd";
+
+g) "BANCO ABC) — Origem dos recursos";
+
+h) "BANCO ABC) — Autorizagao a Receita Federal — José Abcd";
+i) "BANCO ABCD ~ Autorizagao ao Banco Central — José Abcd";
+j) "BANCO ABCD — Autoridade estrangeira";
+
+k) "BANCO ABCD — Formulario cadastral — José Abcd";
+
+l) "BANCO ABCD ~ Organograma"
+
+Exemplo 2:
+Tipo do pleito: Autorizagao para funcionamento de Sociedade de Credito Direto
+
+Modelo Sisorf 81.10.66: REQUERIMENTO DE AUTORIZACAO PARA FUNCIONAMENTO DE SOCIEDADE DE CREDITO DIRETO OU
+DE SOCIEDADE DE EMPRESTIMO ENTRE PESSOAS
+
+Denominagao social pretendida pela instltuigao pleiteante: ABCD Sociedade de Crédito Direto S.A.
+Nome fantasia ou sigla pretendida: ABCD SCD
+
+Nome do controlador ou detentor de participagao qualiﬁcadaz "José Abcd"
+
+Nome do Diretor eleito: "Joao Abc"
+
+Campo "Descric;ao" de cada documento:
+
+1. Requerimento, primeiro documento a ser protocolado:
+
+"ABCD SCD — Autorizagao para funcionamento";
+
+2. Demais documentos vinculados ou associados ao primeiro documento, constantes no requerimento:
+a) "ABC) SCD — AGC de DD/MM/AAAA";
+
+b) "ABC) SCD — Lista de subscrigao";
+
+c) "ABCD SCD —Justiﬁcat1'vafundamentada";
+
+d) "ABC) SCD —|dent1'ﬁcagaointegrantes grupo controle e detentores de partlcipagao qualiﬁcada";
+e) "ABC) SCD — Formulario Cadastral — Jose Abcd";
+
+1’) '‘ABCD SCD ~ Declaragao — Jose Abcd";
+
+g) "ABC) SCD — Origem dos recursos";
+
+h) "ABC) SCD — Balango patrimonia|";
+
+i) "ABCD SCD — IRPF ano—calendério AAAA — José Abcd";
+
+j) "ABCD SCD ~ lndicagao forma de controle societario";
+
+k) "ABCD SCD — Autorizagao a Receita Federal — José Abcd";
+l) "ABCD SCD — Autorizagao ao Banco Central — José Abcd";
+m) "ABCD SCD — Organograma";
+
+n) "ABCD SCD — Autoridade estrangeira";
+
+0) ''ABCD SCD — Informagoes sobre o fundo deinvest1'mento";
+p) "ABCD SCD — Acordo de acionistas";
+
+q) "ABCD SCD — Contrato de usufruto";
+
+r) "ABCD SCD ~ Declaragao e autorizagoes — Joao Abcd";
+
+s) "ABCD SCD — Declaragao capacitagao técnica — Joao Abcd";
+
+t) "ABCD SCD — Curriculo — Joéo Abcd".
+
+Exemplo 3:
+
+Tipo do pleito: Autorizagéo para funcionamento de lnstituigéo de Pagamento
+
+Modelo Sisorf — 8.13.10.15: REQUERIMENTO DE AUTORIZAC/KO PARA FUNCIONAMENTO DE INSTITUICAO DE PAGAMENTO
+Denominagao social da instituigaoc "Exemplo Servigos de Pagamento S.A."
+
+Nome fantasia ou sigla: "Exemplo |P"
+
+CNPJ: 99.999999/9999-99
+
+Ato Societério: Assembleia Geral Extraordinaria de DD/MM/AAAA
+
+Identiﬁcagao integrantes grupo de controle e detentores de participagao qualiﬁcada: "José Abcd", "Joao Xyz" e "Carlos Wyz"
+Nome do administrador: "Maria Abcd"
+
+Campo "Descric;ao" de cada documento:
+
+1. Requerimento, primeiro documento a ser protocolado:
+
+"Exemplo P — Autorizagéo para Funcionamento"
+
+2. Demais documentos vinculados ou associados ao primeiro documento, constantes no requerimento:
+
+a) "Exemp 0 IP — Justiﬁcativa fundamentada";
+
+b) "Exemp o IP —|dent1'ﬁca¢;aointegrantes grupo controle e detentores de participagao qualiﬁcada";
+
+c) "Exemplo IP ~ Formulario Cadastral ~ José Abcd";
+
+d) "Exemp o IP — Formulério Cadastral — Joéo Xyz";
+
+e) "Exemp 0 IP — Formulério Cadastral — Carlos Wyz";
+
+f) "Exemplo IP ~ Declaragao — José Abcd";
+
+g) "Exemp 0 IP — Declaragéo — Joao Xyz";
+
+h) "Exemp o IP — Declaragao — Carlos Wyz";
+
+i) "Exemplo IP — Organograma";
+
+j) "Exemplo IP ~ Indicagao forma de controle societario";
+k) "Exemplo IP — Acordo de acionistas";
+
+l) "Exemplo IP — Contrato de usufruto";
+
+m) "Exemplo IP ~ Autorizagoes ~ José Abcd";
+
+n) "Exemplo IP — Autorizagoes — Joéo Xyz";
+
+o) "Exemplo IP — Autorizagoes — Carlos Wyz";
+
+p) "Exemplo IP — Autorizagoes da sociedade ";
+
+q) "Exemplo IP — Demonstragoes ﬁnanceiras controlador";
+r) "Exemplo IP — IRPF ano—ca|endério AAAA — José Abcd";
+s) "Exemplo IP — IRPF ano—calendério AAAA — Joao Xyz";
+
+t) "Exemplo IP — IRPF ano—calendério AAAA — Carlos Wyz";
+u) "Exemplo IP — Demonstragoes ﬁnanceiras |P";
+
+v) "Exemplo IP — Autoridade estrangeira";
+
+w) "Exemplo IP — Estatuto social";
+
+x) "Exemplo IP —AGE de DD/MM/AAAA";
+
+y) "Exemplo IP — Declaragéo e autorizagoes — Maria Abcd"
+z) "Exemplo IP ~ Declaragao capacitagéo técnica — Maria Abcd";
+aa) "Exemplo IP — Curriculo — Maria Abcd";
+
+bb) "Exemplo IP — Edital de convocagao";
+
+cc) "Exemp|o IP — AGE de DD/MM/AAAA";
+
+dd) "Exemplo IP — Lista de subscricao";
+
+ee) "Exemplo IP — comprovante de deposito bancario";
+
+ff) "Exemplo IP — comprovacao origem de recursos — José Abcd";
+gg) "Exemplo IP — comprovacao origem de recursos — Joao Xyz";
+hh) "Exemplo IP — comprovacao origem de recursos — Carlos Wyz";
+
+ii) "Exemplo IP — Volume de transacoes de pagamento".
+
+Exemplo 4:
+Tipo do pleito: Eleicao e Reforma Estatutaria
+
+Modelo Sisorf 3.2.10.2; REQUERIMENTO DE APRovAc;/lo DE ELEM;/lo E DE REFORMA ESTATUTARIA EM COOPERATIVA DE
+CREDITO
+
+Denominacao social da lnstituicaoc "Coopexemp|o — Cooperativa de economia e crédito mutuo dos empregados da Exemplo
+S.A."
+
+Nome fantasia ou sigla: "Coopexemplo"
+
+CNPJ: 99.999999/9999-99
+
+Ato Societario: Assembleia Geral Ordinaria e Extraordinaria de DD/MM/AAAA
+
+Nome do Diretor eleito: "Maria Abcd"
+
+Nomes Conselheiros Fiscais eleitos:
+
+"José Abcd", "Joao Xyz" e "Carlos Wyz"
+
+Campo "Descricao" de cada documento:
+
+1. Requerimento, primeiro documento a ser protocolado:
+
+"99.999.999 — Coopexemplo — AGO/E de DD/MM/AAAA — Eleicao e reforma estatutéria"
+2. Demais documentos vinculados ou associados ao primeiro documento, na ordem em que sao listados no Requerimento:
+a) "99.999.999 — Declaracao de Proposito";
+
+b) "99.999.999 — Edital de Convocacao";
+
+c) "99.999.999 — AGO/E de DD/MM/AAAA";
+
+d) "99.999.999 — Declaracao e autorizacoes — Maria Abcd";
+
+e) "99.999.999 — Declaracao capacitacao técnica — l\/laria Abcd";
+
+f) "99.999.999 — Curriculo — Maria Abcd";
+
+g) "99.999.999 — Declaracao e autorizacoes — José Abcd";
+
+h) "99.999.999 — Declaracao e autorizacoes — Joao Xyz";
+
+i) "99.999.999 — Declaracao e autorizacoes — Carlos Wyz".
+
+Exemplo 5:
+Tipo do pleito: Aumento de capital
+
+Modelo Sisorf 83.10.13; REQUERIMENTO DE APRovAc;/lo DE AUMENTO DE CAPITAL EM ADMINISTRADORA DE CONSORC|O—
+SOCIEDADE ANONIIVIA
+
+Denominacao social da Instituicaoz "Consorcio Exemplo Administradora de Consorcios S.A."
+Nome fantasia ou sigla: "Consorcio Exemplo"
+
+CNPJ: 99.999999/9999-99
+
+Ato Societario: Assembleia Geral Extraordinaria de DD/MM/AAAA
+
+Campo "Descricao" de cada documento:
+
+1. Requerimento, primeiro documento a ser protocolado:
+
+"99.999.999 — Consorcio Exemplo — AGE de DD/MM/AAAA — Aumento de Capital"
+
+2. Demais documentos vinculados ou associados ao primeiro documento, na ordem em que sao listados no Requerimento:
+a) "99.999.999 — Edital de Convocagao";
+
+b) "99.999.999 — AGE DE DD/MM/AAAA";
+
+c) "99.999.999 — Estatuto social";
+
+d) "99.999.999 — Lista de subscricao";
+
+e) "99.999.999 — Comprovante de depésito bancario";
+
+f) "99.999.999 — Justiﬁcativa fundamentada da operagao".
+
+Exemplo 6:
+
+Na resposta a exigéncias feitas pelo Deon‘, quando nao for posslvel via BC Correio por ser necessario o envio de documentos
+anexos, o campo "Descrigao" do Protocolo Digital deve ser preenchido da seguinte forma:
+
+Conteddo: Resposta a exigéncias
+
+Nome fantasia ou sigla ou denominacao social da Instituicaoz lnstituicao XYZ
+
+CNPJ: 99.999999/9999-99
+
+Declaracoes e Autorizacoes do Eleito: José Abcd
+
+Curriculo do Eleito: José Abcd
+
+1. Primeiro documento a ser protocoladoz
+
+"99.999.999 — lnstituicao XYZ — Resposta exigéncias"
+
+2. Caso seja necessario envio de documento vinculado ou associado, na ordem constante no oﬁcio de exigéncias:
+a) "99.999.999 — Declaragoes e Autorizacoes — José Abcd";
+
+b) "99.999.999 — Curriculo — José Abcd".
+
+Exemplo 7:
+
+Na interposicao de recurso a decisao de indeferimento ao Deon‘, quando nao for possivel via BC Correio por ser necessario o
+envio de documentos anexos, o campo "Descricao" do Protocolo Digital deve ser preenchido da seguinte forma:
+
+Conteddo: Recurso
+
+Nome fantasia ou sigla ou denominacao social da Instituicaoz lnstituicao XYZ
+Declaracao do Eleito: Joao Xyz
+
+1. Primeiro documento a ser protocoladoz
+
+"99.999.999 — lnstituicao XYZ — Recurso"
+
+2. Caso seja necessario envio de documento vinculado ou associado:
+
+"99.999.999 — Declaracao — Joao Xyz"
+

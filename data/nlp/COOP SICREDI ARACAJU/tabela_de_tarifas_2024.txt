@@ -1,0 +1,439 @@
+SERVIÇOS PRIORITÁRIOS
+CADASTRO CANAIS DE ENTREGA FATO GERADOR DA COBRANÇA SIGLA NO EXTRATO VALOR R$ (PF) VALOR R$ (PJ)
+Confecção de cadastro para início de relacionamento –Realização de pesquisa em serviços de proteção ao crédito, base de dados e informações cadastrais e tratamento de dados e informações necessárias ao início de relacionamento decorrente da abertura de conta de depósitos à vista ou de poupança ou contratação de 
+operação de crédito ou de arrendamento mercantil, não podendo ser cobrada cumulativamente. Cadastro Isento Isento
+CONTAS DE DEPÓSITO 
+CARTÃO CANAIS DE ENTREGA FATO GERADOR DA COBRANÇA SIGLA NO EXTRATO VALOR R$ (PF) VALOR R$ (PJ)
+Fornecimento de 2ª via de cartão com função de débito – Confecção e emissão de novo cartão com função débito, restrito a casos de pedidos de reposição formulados pelo detentor da conta, decorrente de perda, roubo, furto, danificação e outros motivos não imputáveis à instituição emitente. 2ª via - Cartão Débito 7,00 7,00
+Fornecimento de 2ª via de cartão com função movimentação de conta poupança – Confecção e emissão de novo cartão de poupança, restrito a casos de pedidos de reposição formulados pelo detentor da conta, decorrente de perda, roubo, furto, danificação e outros motivos não imputáveis à instituição emitente. 2ª via - Cartão Poupança 6,00 6,00
+CHEQUE CANAIS DE ENTREGA FATO GERADOR DA COBRANÇA SIGLA NO EXTRATO VALOR R$ (PF) VALOR R$ (PJ)
+Exclusão do Cadastro de Emitentes de Cheques sem Fundos (CCF) – Exclusão de registro de cheque do Cadastro de Emitentes de Cheques sem Fundos (CCF) por solicitação do cliente, cobrada por unidade excluída. Exclusão CCF 50,00 50,00
+Contraordem (ou revogação) e oposição (ou sustação) ao pagamento de cheque – Realização de contraordem (ou revogação) e oposição (ou sustação) ao pagamento de cheque, cobrada uma única vez, compreendidas as fases de solicitação provisória, de confirmação e de eventual anulação a pedido. Sustação/Revogação 12,00 12,00
+Fornecimento de folhas de cheque – Confecção e fornecimento de folhas de cheque, cobradas por unidade que exceder as 10 folhas previstas gratuitamente, fornecidas por conta de depósitos à vista independentemente do número de titulares. Folha cheque 1,90 1,90
+Cheque administrativo – Emissão de cheque administrativo. Cheque administrativo 28,00 28,00
+Cheque visado – Procedimentos para registro e bloqueio do saldo em conta de depósitos à vista correspondentes ao valor do cheque. Cheque visado Não disponível Não disponível
+TRANSFERÊNCIAS DE RECURSOS CANAIS DE ENTREGA FATO GERADOR DA COBRANÇA SIGLA NO EXTRATO VALOR R$ (PF) VALOR R$ (PJ)
+Transferência por meio de DOC/TEDPresencial ou pessoal Realização de transferência de recursos por meio de Documento de Crédito (DOC) ou Transferência Eletrônica Disponível (TED),  em guichê de caixa ou mediante outras formas de atendimento pessoal, incluindo o atendimento telefônico realizado por atendente. DOC/TED Pessoal 13,00 13,00
+Terminal de autoatendimento 
+e outros meios eletrônicosRealização de transferência de recursos por meio de DOC ou TED em terminal de autoatendimento ou mediante outras formas de atendimento eletrônico automatizado, sem intervenção humana. Nas contas eletrônicas, não pode ser cobrada tarifa para esse canal 
+de entrega.DOC/TED Eletrônico 9,00 9,00
+Internet/mobile Realização de transferência de recursos por meio de DOC ou TED pela internet. Nas contas eletrônicas, não pode ser cobrada tarifa para esse canal de entrega. DOC/TED Internet 9,00 9,00
+Transferência agendada por meio de DOC/TEDPresencial ou pessoal Realização de transferência agendada de recursos por meio de DOC ou TED em guichê de caixa ou mediante outras formas de atendimento pessoal, tais como atendimento telefônico realizado por atendente. DOC/TED Agendado (P) 13,00 13,00
+Terminal de autoatendimento 
+e outros meios eletrônicosRealização de transferência agendada de recursos por meio de DOC ou TED em terminal de autoatendimento ou mediante outras formas de atendimento eletrônico automatizado, sem intervenção humana. Nas contas eletrônicas, não pode ser cobrada tarifa para 
+esse canal de entrega. DOC/TED Agendado (E) 9,00 9,00
+Internet/mobile Realização de transferência agendada de recursos por meio de DOC ou TED pela internet. Nas contas eletrônicas, não pode ser cobrada tarifa para esse canal de entrega. DOC/TED Agendado (I) 9,00 9,00
+Transferência entre contas na própria instituiçãoPresencial ou pessoalRealização de transferência de recursos entre contas na própria instituição em guichê de caixa ou mediante outras formas de atendimento pessoal, tais como atendimento telefônico realizado por atendente, além do número permitido gratuitamente por mês. Nas 
+contas eletrônicas, não há gratuidade para esse canal de entrega. Transf. recurso (P) Isento Isento
+Terminal de autoatendimento 
+e outros meios eletrônicos, 
+bem como a internetRealização de transferência de recursos entre contas na própria instituição em terminal de autoatendimento ou mediante outras formas de atendimento eletrônico automatizado, sem intervenção humana, inclusive internet, além do número permitido gratuitamente 
+por mês. Nas contas eletrônicas, não pode ser cobrada tarifa para esse canal de entrega. Transf. recurso (E/I) Isento Isento
+OPERAÇÕES DE CRÉDITO CANAIS DE ENTREGA FATO GERADOR DA COBRANÇA SIGLA NO EXTRATO VALOR R$ (PF) VALOR R$ (PJ)
+CARTÃO DE CRÉDITO CANAIS DE ENTREGA FATO GERADOR DA COBRANÇA SIGLA NO EXTRATO VALOR R$ (PF) VALOR R$ (PJ)
+Anuidade - cartão básicoNacional Disponibilização de rede de estabelecimentos afiliados, instalada no país, para pagamento de bens e serviços, cobrada, no máximo, uma vez a cada doze (12) meses, admitido o parcelamento da cobrança. Anuidade nacional Não disponível Não disponível
+Internacional Disponibilização de rede de estabelecimentos afiliados, instalada no país e no exterior, para pagamento de bens e serviços, cobrada, no máximo, uma vez a cada doze (12) meses, admitido o parcelamento da cobrança. Anuidade int. 180,00 500,00
+Fornecimento de 2ª via de cartão com função crédito – Confecção e emissão de novo cartão com função crédito, restrito a casos de pedidos de reposição formulados pelo detentor do cartão, decorrente de perda, roubo, furto, danificação e outros motivos não imputáveis à instituição emitente. 2ª via - Cartão de crédito 25,00 20,00
+Utilização de canais de atendimento para retirada em espécieNo país Disponibilização e utilização pelo cliente de canais de atendimento disponíveis no país para retirada em espécie na função de crédito. Retirada - país 10,00 + IOF 10,00 + IOF
+No exterior Utilização de canais de atendimento disponíveis no exterior para retirada em espécie na função crédito ou débito. Retirada - exterior 10,00 + IOF 10,00 + IOF
+Pagamento de contas utilizando a função crédito – Realização de procedimentos operacionais para o pagamento de contas (água, luz, telefone, gás, tributos, boletos de cobrança, etc.), utilizando a função crédito no cartão. Pagamento de contas Não disponível Não disponível
+Avaliação emergencial de crédito – Avaliação de viabilidade e de riscos para a concessão de crédito em caráter emergencial a pedido do cliente e por meio de atendimento pessoal, para a realização de despesa acima do limite do cartão, cobrada, no máximo, uma vez nos últimos trinta (30) dias. Aval. emerg. de crédito Não disponível Não disponível
+OPERAÇÕES DE CÂMBIO MANUAL PARA COMPRA
+OU VENDA DE MOEDA ESTRANGEIRA RELACIONADA
+A VIAGENS INTERNACIONAIS CANAIS DE ENTREGA FATO GERADOR DA COBRANÇA SIGLA NO EXTRATO VALOR R$ (PF) VALOR R$ (PJ)
+Venda de moeda estrangeiraEspécieRealização de procedimentos para viabilizar a venda de moeda estrangeira em espécie, em operação de câmbio manual relacionada a viagens internacionais, compreendidas as fases de contratação e liquidação, registro da operação e entrega da moeda. Venda Câmbio Espécie2,5% sobre o valor da 
+operação2,5% sobre o valor da 
+operação
+Cheque de viagem Realização de procedimentos para viabilizar a venda de moeda estrangeira em cheque de viagem e em operação de câmbio manual relacionada a viagens internacionais, compreendidas as fases de contratação e liquidação, registro da operação e entrega dos cheques. Venda Câmbio Cheque Não disponível Não disponível
+Cartão pré-pago:
+emissão e cargaRealização de procedimentos para viabilizar a venda de moeda estrangeira em cartão pré-pago de uso internacional e em operação de câmbio manual relacionada a viagens internacionais, compreendidas as fases de contratação e liquidação, registro da operação, 
+emissão e entrega do cartão, bem como a realização da carga inicial.Venda Câmbio Pré-pago EMI Não disponível Não disponível
+Cartão pré-pago:
+recargaRealização de procedimentos para viabilizar a venda de moeda estrangeira em cartão pré-pago de uso internacional e em operação de câmbio manual relacionada a viagens internacionais, compreendidas as fases de contratação e liquidação, registro da operação 
+e realização da recarga.Venda Câmbio Pré-pago Não disponível Não disponível
+Compra de moeda estrangeiraEspécieRealização de procedimentos para viabilizar a compra de moeda estrangeira em espécie e em operação de câmbio manual relacionada a viagens internacionais, compreendidas as fases de recepção e conferência da moeda estrangeira na dependência da instituição 
+ou da empresa que atua como correspondente no país, contratação, liquidação e registro da operação.Compra Câmbio Espécie Isento Isento
+Cheque de viagemRealização de procedimentos para viabilizar a compra de moeda estrangeira em cheque de viagem e em operação de câmbio manual relacionada a viagens internacionais, compreendidas as fases de recepção e conferência dos cheques na dependência da instituição 
+ou da empresa que atua como seu correspondente no país, contratação, liquidação e registro da operação.Compra Câmbio Cheque Não disponível Não disponível
+Cartão pré-pago Realização de procedimentos para viabilizar a compra de moeda estrangeira em cartão pré-pago e em operação de câmbio manual relacionada a viagens internacionais, compreendidas as fases de contratação, liquidação e registro da operação. Compra Câmbio Pré-pago Não disponível Não disponívelSAQUE CANAIS DE ENTREGA FATO GERADOR DA COBRANÇA SIGLA NO EXTRATO VALOR R$ (PF) VALOR R$ (PJ)
+Saque de conta de depósitos à vista e de poupançaPresencial ou pessoal Saque em guichê de caixa além do número de saques permitidos gratuitamente por mês. Nas contas de depósitos, cujos contratos prevejam utilizar exclusivamente meios eletrônicos (contas eletrônicas), não há gratuidade para esse canal de entrega. Saque pessoal 5,00 5,00
+Terminal de 
+autoatendimentoSaque em terminal de autoatendimento além do número de saques permitidos gratuitamente por mês. Nas contas eletrônicas, não pode ser cobrada tarifa para esse canal de entrega. Saque terminal 2,00 2,00
+Correspondente no país Saque em empresa que atua como correspondente no país de instituição financeira. Saque correspondente 3,50 3,50
+DEPÓSITO CANAIS DE ENTREGA FATO GERADOR DA COBRANÇA SIGLA NO EXTRATO VALOR R$ (PF) VALOR R$ (PJ)
+Depósito identificado – Depósito com registro de informações necessárias à identificação, a qualquer tempo, da operação e/ou do depositante, por este solicitado. Depósito identificado 2,00 2,00
+CONSULTA CANAIS DE ENTREGA FATO GERADOR DA COBRANÇA SIGLA NO EXTRATO VALOR R$ (PF) VALOR R$ (PJ)
+Fornecimento de extrato mensal de conta de depósitos à vista e de poupançaPresencial ou pessoalFornecimento de extrato com a movimentação dos últimos trinta (30) dias em guichê de caixa ou por outras formas de atendimento pessoal, tais como atendimento telefônico realizado por atendente, além do número permitido gratuitamente por mês. Nas contas 
+eletrônicas, não há gratuidade para esse canal de entrega. Extrato mês ( P) 2,50 2,50
+Terminal de 
+autoatendimento Fornecimento de extrato com a movimentação dos últimos trinta (30) dias em terminal de autoatendimento ou por outras formas de atendimento eletrônico automatizado, sem intervenção humana, além do número permitido gratuitamente por mês. Nas contas 
+eletrônicas, não pode ser cobrada tarifa para esse canal de entrega. Extrato mês ( E) 2,50 2,50
+Correspondente no paísFornecimento de extrato com a movimentação dos últimos trinta (30) dias em empresa que atua como correspondente no país de instituição financeira, além do número permitido gratuitamente por mês nas contas de depósitos de poupança. Nas contas eletrônicas, 
+não há gratuidade para esse canal de entrega. Extrato mês ( C) 2,50 2,50
+Fornecimento de extrato de um período de conta de depósitos à vista e de poupançaPresencial ou pessoal Fornecimento de extrato com a movimentação de um período em guichê de caixa ou por outras formas de atendimento pessoal, tal como atendimento telefônico realizado por atendente. Extrato movimento ( P) 2,50 2,50
+Terminal de autoatendimento Fornecimento de extrato com a movimentação de um período em terminal de autoatendimento ou por outras formas de atendimento eletrônico automatizado, sem intervenção humana. Nas contas eletrônicas, não pode ser cobrada tarifa para esse canal de entrega. Extrato movimento ( E) 2,50 2,50
+Correspondente no país Fornecimento de extrato com a movimentação de um período, por meio de empresa que atua como correspondente no país de instituição financeira.  Extrato movimento ( C) 2,50 2,50
+Fornecimento de cópia de microfilme, microficha ou assemelhado – Fornecimento de cópia de microfilme, microficha ou assemelhado. Microfilme 6,00 6,00SERVIÇOS ESSENCIAIS (Serviços básicos disponíveis gratuitamente)1
+SERVIÇOS CONTA CORRENTE POUPANÇA
+Fornecimento de cartão Função débito Função movimentação e débito
+Fornecimento de folhas de cheque210 folhas mensais Não disponível
+Fornecimento de 2ª via do cartão (exceto em casos de pedidos por perda/roubo ou danificação pelo associado) Isento Isento
+Saques em guichê de caixa, inclusive por cheque ou cheque avulso, ou em terminal de autoatendimento 4 saques mensais 2 saques mensais
+Fornecimento de extratos com movimentação do mês por terminal de autoatendimento 2 extratos mensais 2 extratos mensais
+Transferência de recursos entre contas 2 transferências mensais para contas na mesma instituição 2 transferências mensais para contas de mesma titularidade
+Compensação de cheques Isento Não disponível
+Fornecimento de extrato consolidado de tarifas cobradas no ano anterior 1 por ano Isento
+Realização de consultas via internet Isento Isento
+1. Serviços disponíveis para pessoa física. – 2. Desde que ainda não tenham sido liquidadas vinte (20) ou mais folhas de cheque já fornecidas ao associado ou que não tenham sido liquidadas, no mínimo, 50% das folhas de cheque forneci -
+(P) Pessoal, (E) Eletrônico, (C) Correspondente no 
+PIX UNIDADE DE COBRANÇA VALOR R$ (PF) VALOR R$ (PJ)
+Pix Por ocorrência 0,00 0,00 a 0,40
+Pix Cobrança - Entrada Por ocorrência 0,00 9,00
+Pix Cobrança - Liquidação Por ocorrência 0,00 8,00
+3. Os serviços constantes da conta salário obedecem às quantidades estabelecidas na Resolução nº 3.402/06 e Circular nº 3.338, de 21/12/2006, do Bacen. As tarifas sobre as transições excedentes de 
+cada serviço são as mesmas aplicadas para os demais associados, conforme descrito nesta tabela.CONTA SALÁRIO3UNIDADE DE COBRANÇA VALOR R$ (PF) VALOR R$ (PJ)
+Extrato (a partir do 3º evento no mês) Por solicitação 1,50 Não disponível
+Saques (a partir do 6º evento por crédito) Por solicitação 3,00 Não disponível
+Emissão de TEC (a partir do 2º evento por crédito) Por solicitação 14,00 Não disponível
+PAGAMENTOS E RECEBIMENTOS
+PAGAMENTO A FORNECEDOR UNIDADE DE COBRANÇA VALOR R$ (PF) VALOR R$ (PJ)
+Pagamentos de Títulos, Tributos e Impostos Por solicitação 1,50 1,50
+Crédito em Conta Corrente Por solicitação 1,50 1,50
+DOC/TED Por solicitação 9,00 9,00
+Pix Transferências Por solicitação Não disponível 9,00
+Ordem de Pagamento - OP Por solicitação 25,00 25,00
+FOLHA DE PAGAMENTO UNIDADE DE COBRANÇA VALOR R$ (PF) VALOR R$ (PJ)
+Transferência - Conta Salário / Conta Sicredi Por solicitação 9,00 9,00
+Transferência - Outros Bancos Por solicitação 9,00 9,00
+Pagamento - Conta Salário / Cartão Transação Por solicitação 9,00 9,00
+COBRANÇA UNIDADE DE COBRANÇA VALOR R$ (PF) VALOR R$ (PJ)
+Entrada Por solicitação 9,00 9,00
+Liquidação Por solicitação 8,00 8,00
+Manutenção de título vencido Por solicitação 6,50 6,50
+Pedido de protesto4Por solicitação 12,00 12,00
+Pedido de sustentação de protesto4Por solicitação 12,00 12,00
+Pedido de negativação Por solicitação Não disponível 12,00
+Pedido de sustentação de negativação Por solicitação Não disponível 12,00
+Baixa de título Por solicitação 7,00 7,00
+Carta anuência Por solicitação 15,00 15,00
+Distribuição de Crédito por Boleto via TED Por solicitação 3,00 3,00
+Distribuição de Crédito por Boleto via Conta Corrente Sicredi Por solicitação 3,00 3,00
+ARRECADAÇÃO UNIDADE DE COBRANÇA VALOR R$ (PF) VALOR R$ (PJ)
+Arrecadação de documentos com ou sem código de barras e Pix Por ocorrência - Canais Digitais Não disponível 8,00
+Arrecadação de documentos com ou sem código de barras Por ocorrência - Canais Físicos Não disponível 18,00
+Arrecadação de débito automático Por ocorrência Não disponível 9,504. Excluem-se os custos de CAPITAL ESTRANGEIRO E CÂMBIO
+EXPORTAÇÃO UNIDADE DE COBRANÇA VALOR US$ (PF) VALOR US$ (PJ)
+Edição e Efetivação de Contrato de Câmbio Por operação Consultar 5 Consultar 5
+Alteração, Cancelamento e Baixa de Contrato de Câmbio Por operação 100,00 100,00
+IMPORTAÇÃO UNIDADE DE COBRANÇA VALOR US$ (PF) VALOR US$ (PJ)
+Edição e Efetivação de Contrato de Câmbio Por operação 200,00 200,00
+Alteração, Cancelamento e Baixa de Contrato de Câmbio Por operação 100,00 100,00
+Fechamento de Câmbio com liquidação em D+1 Por operação 100,00 100,00
+Fechamento de Câmbio com liquidação futura Por operação 300,00 300,00
+OPERAÇÕES FINANCEIRAS UNIDADE DE COBRANÇA VALOR US$ (PF) VALOR US$ (PJ)
+Edição e Efetivação de Contrato de Câmbio Por operação 200,00 200,00
+Alteração e Cancelamento de Contrato de Câmbio Por operação 100,00 100,00
+Recolhimento de DARF Por operação 10,00 10,00
+Criação, Confecção e Alteração de Registro de Operação Financeira Por operação Consultar 5 Consultar 5
+OUTROS SERVIÇOS UNIDADE DE COBRANÇA VALOR US$ (PF) VALOR US$ (PJ)
+Cobrança de Cheque em Moeda Estrangeira Por operação 50,00 50,00
+Análise de Documentos para Contratação de Câmbio Por operação 3.500,00 3.500,00
+Edição e Efetivação de Contrato de Câmbio com ROF/RDE Por operação Consultar 5 Consultar 5
+Transferência e/ou Devolução de Ordem de Pagamento Por operação 50,00 50,00
+Carta de Crédito Por operação Consultar 5 Consultar 5
+Cobrança Documentária Por operação Consultar 5 Consultar 5
+OUTROS SERVIÇOS UNIDADE DE COBRANÇA VALOR R$ (PF) VALOR R$ (PJ)
+SML – Sistema de Pagamentos em Moeda Local (envio/recebimento) Por operação 300,00 300,00
+5. Para tarifas com valores a “consultar” , entrar em contato diretamente com a área de Operações de Câmbio.
+Tarifas máximas estabelecidas pelo Sicredi para aplicação em toda a sua rede de atendimento em consonância com a Resolução 3.919, de 25/11/2010, do Banco Central do Brasil. 
+ Afixação obrigatória nas dependências das unidades de atendimento.SERVIÇOS ESPECIAISSistema de Crédito Cooperativo – Sicredi • CNPJ: Tabela de tari fas
+Divulgada em 01/12/2023
+Vigência a partir de 02/01/2024CARTÃO DE CRÉDITO UNIDADE DE COBRANÇA VALOR R$ (PF) VALOR R$ (PJ)BENEFÍCIOS15
+Cartão Sicredi Visa Internacional10 (Básico Internacional) - Anuidade Titular Por ano 180,00 Não disponível
+Serviço de assistência em viagem; Serviço de 
+saque emergencial; Substituição emergencial 
+do cartão.Cartão Sicredi Visa Internacional10 (Básico Internacional) - Anuidade 
+AdicionalPor ano 90,00 Não disponível
+Cartão Sicredi Visa Internacional10 (Básico Internacional) - 2ª Via Por emissão 25,00 Não disponível
+Cartão Sicredi Visa Internacional10 (Básico Internacional) - Saque a Crédito Por contratação 10,00 Não disponível
+Cartão Sicredi Touch10 (Diferenciado Internacional) - Anuidade Titular Por ano 120,00 Não disponível
+Serviço de assistência em viagem; Serviço de 
+saque emergencial; Substituição emergencial 
+do cartão.Cartão Sicredi Touch10 (Diferenciado Internacional) - Anuidade Adicional Por ano 60,00 Não disponível
+Cartão Sicredi Touch10 (Diferenciado Internacional) - 2ª Via Por emissão 25,00 Não disponível
+Cartão Sicredi Touch10 (Diferenciado Internacional) - Saque a Crédito Por contratação 10,00 Não disponível
+Cartão Sicredi Visa Gold10 (Diferenciado Internacional) - Anuidade Titular Por ano 280,00 Não disponível
+Serviço de assistência em viagem; Serviço de 
+saque emergencial; Substituição emergencial do 
+cartão; Seguro para veículos de locadora; Pro -
+teção de preço; Proteção de compra; Garantia 
+estendida original.Cartão Sicredi Visa Gold10 (Diferenciado Internacional) - Anuidade 
+AdicionalPor ano 140,00 Não disponível
+Cartão Sicredi Visa Gold10 (Diferenciado Internacional) - 2ª Via Por emissão 25,00 Não disponível
+Cartão Sicredi Visa Gold10 (Diferenciado Internacional) - Saque a Crédito Por contratação 10,00 Não disponível
+Cartão Sicredi Visa Platinum10 (Diferenciado Internacional) - Anuidade 
+TitularPor ano 380,00 Não disponível
+Serviço de assistência em viagem; Serviço de 
+saque emergencial; Substituição emergencial do 
+cartão; Seguro para veículos de locadora; Seguro 
+de emergência médica internacional; Proteção 
+de preço; Proteção de compra; Garantia estendi -
+da original; Concierge.Cartão Sicredi Visa Platinum10 (Diferenciado Internacional) - Anuidade 
+AdicionalPor ano 190,00 Não disponível
+Cartão Sicredi Visa Platinum10 (Diferenciado Internacional) - 2ª Via Por emissão 25,00 Não disponível
+Cartão Sicredi Visa Platinum10 (Diferenciado Internacional) - Saque a 
+CréditoPor contratação 10,00 Não disponível
+Cartão Sicredi MasterCard Internacional10 (Básico Internacional) - 
+Anuidade TitularPor ano 180,00 Não disponível
+Serviço de saque emergencial; Substituição 
+emergencial do cartão.Cartão Sicredi MasterCard Internacional10 (Básico Internacional) - 
+Anuidade AdicionalPor ano 90,00 Não disponível
+Cartão Sicredi MasterCard Internacional10 (Básico Internacional) - 2ª Via Por emissão 25,00 Não disponível
+Cartão Sicredi MasterCard Internacional10 (Básico Internacional) - Saque 
+a CréditoPor contratação 10,00 Não disponível
+Cartão Sicredi MasterCard Internacional10 (Básico Internacional) - CDA Por contratação 1% do valor contratado9Não disponível
+Cartão Sicredi MasterCard Gold10 (Diferenciado Internacional) - Anui -
+dade TitularPor ano 280,00 Não disponível
+Serviço de saque emergencial; Substituição 
+emergencial do cartão; Seguro proteção de 
+preço; Seguro proteção de compras; Garantia 
+estendida original.Cartão Sicredi MasterCard Gold10 (Diferenciado Internacional) - Anuidade 
+AdicionalPor ano 140,00 Não disponível
+Cartão Sicredi MasterCard Gold10 (Diferenciado Internacional) - 2ª Via Por emissão 25,00 Não disponível
+Cartão Sicredi MasterCard Gold10 (Diferenciado Internacional) - Saque 
+a CréditoPor contratação 10,00 Não disponível
+Cartão Sicredi MasterCard Gold10 (Diferenciado Internacional) - CDA Por contratação 1% do valor contratado9Não disponível
+Cartão Sicredi MasterCard Platinum10 (Diferenciado Internacional) - 
+Anuidade TitularPor ano 380,00 Não disponível
+Serviço de saque emergencial; Substituição 
+emergencial do cartão; Agência de viagens; 
+Airport Concierge; Concierge; Seguro de 
+emergências médicas em viagens; Masterseguro 
+de automóveis.Cartão Sicredi MasterCard Platinum10 (Diferenciado Internacional) - 
+Anuidade AdicionalPor ano 190,00 Não disponível
+Cartão Sicredi MasterCard Platinum10 (Diferenciado Internacional) - 2ª Via Por emissão 25,00 Não disponível
+Cartão Sicredi MasterCard Platinum10 (Diferenciado Internacional) - Saque 
+a CréditoPor contratação 10,00 Não disponível
+Cartão Sicredi MasterCard Platinum10 (Diferenciado Internacional) - CDA Por contratação 1% do valor contratado9Não disponível
+CARTÃO DE DÉBITO UNIDADE DE COBRANÇA VALOR R$ (PF) VALOR R$ (PJ)
+Manutenção Cartão Empresarial Débito - Por Cartão Por mês Não disponível 4,00
+Manutenção Cartão Empresarial Débito - Por Cartão Por ano Não disponível 48,009. Valor mínimo de R$ 10,00 ou 1% do valor contratado (o que for maior).
+10. Cartões válidos no Brasil e no exterior.                                                                                                                                                                                                         
+Para Cartão BNDES Sicredi TAC - Tarifa Abertura de Crédito, não poderá exceder o valor de 2% do limite de crédito concedido.
+15. Não existem taxas de adesão e manutenção a serem cobradas no Programa de Recompensa dos cartões PF. Pode haver anuidade diferenciada para o cartão PJ.
+Através das compras realizadas com os cartões participantes, na funcionalidade crédito e para o pagamento de anuidade, será atribuído 1 (um) ponto para cartões Sicredi Gold, Touch e Sicredi Empresarial; 
+1,5 ponto para cartão Sicredi Platinum e 2 pontos para cartão Sicredi MasterCard Black, equivalente em valor a cada 1 (um) dólar turismo norte-americano lançado na fatura mensal. O associado titular 
+pode transferir os pontos para as empresas parceiras (Multiplus, Smiles e Tudo Azul) e trocar por milhas aéreas, eletrônicos, eletrodomésticos, entre outros. No caso do cartão Sicredi Empresarial, quem 
+pode transferir os pontos para as empresas parceiras é o Representante Autorizado.7. Inclusa a taxa de R$ 0,35 repassada ao Banco do Brasil.
+8. Inclusa a taxa de R$ 6,82 repassada ao Banco do Brasil.CUSTÓDIA DE CHEQUES UNIDADE DE COBRANÇA VALOR R$ (PF) VALOR R$ (PJ)
+Contrato de custódia de cheques Na contratação 10,00 10,00
+Entrada de cheques Por ocorrência 10,00 10,00
+Baixa de cheques Por ocorrência 5,00 5,00
+Devolução ou baixa antecipada Por ocorrência 5,00 5,00
+Alteração de data de vencimento Por solicitação 5,00 5,00
+CHEQUES UNIDADE DE COBRANÇA VALOR R$ (PF) VALOR R$ (PJ)
+Cheque devolvido por insuficiência de fundos7 Por folha Não disponível 45,00
+Fornecimento de folhas de cheque (talão 10 ou 20 folhas) Por folha 1,90 1,90
+Fornecimento de folhas de cheque (formulário contínuo) Por folha 1,90 1,90
+Inclusão no Cadastro de Emitentes de Cheques sem Fundo8 Por ocorrência Não disponível 30,00
+Cheque com valor igual ou superior a R$ 5.000,00 (valor fixo + %) Por ocorrência Não disponível 0,11% sobre o valor do cheque
+Cheque administrativo com valor igual ou superior a R$ 5.000,00 (valor fixo + %) Por ocorrência Não disponível 0,11% sobre o valor do cheque
+Cheque TB com valor igual ou superior a R$ 5.000,00 (valor fixo + %) Por ocorrência Não disponível 0,11% sobre o valor do cheque
+Depósito em cheque Por folha Não disponível 2,00
+Processamento - Compe Por folha Não disponível 2,50
+OUTROS SERVIÇOS UNIDADE DE COBRANÇA VALOR R$ (PF) VALOR R$ (PJ)
+Ressarcimento de despesas - Telefonema Por ocorrência Não disponível 5,00
+Ressarcimento de despesas - Fax Por ocorrência Não disponível 5,00
+Atestado de idoneidade financeira Por solicitação 100,00 100,00
+Abono de assinatura Por solicitação 10,00 10,00
+Token Por solicitação 150,00 150,00
+Mobile Token Por ativação 10,00 10,00
+Coleta e entrega em domicílio ou outro local Por solicitação 10,00 10,00
+Aviso automático de movimentação Por ocorrência 5,00 5,00
+Pagamento de funcionários via relação Por operação Não disponível 5,00
+Pagamento de funcionários via meio magnético Por operação Não disponível 5,00
+Malote personalizado - Assinatura Por mês Não disponível 100,00
+Malote personalizado - Processado Por unidade Não disponível 50,00
+Saque a débito rede compartilhada Por ocorrência 3,50 3,50
+Coleta e entrega de valores a domicílio Por ocorrência Conforme roteiro Conforme roteiro
+Extrato Consolidado (Sicredi Extrato) Por mês 4,00 Não disponível
+Cópia ou 2ª via de documentos (outros) Por folha 5,00 5,00
+Fornecimento de Cópia de Contrato ou Cédula Por contrato 200,00 200,00
+Recibo de Transação Eletrônica - 2ª via Por documento 1,50 1,50
+Fornecimento de Atestados, Certificados e Declarações Por documento 20,00 20,00
+Fornecimento de Extrato Financiamento (ficha gráfica - crédito) Por contrato 20,00 20,00
+Cópia de imagem de cheque Por folha 9,00 9,00
+Tag de Passagem - Plano Misto Por mês 15,00 Não disponível
+Tag de Passagem - Tarifa de Emissão Por ocorrência 30,00 Não disponível
+Tag de Passagem - Tarifa de emissão de 2ª via Por ocorrência 30,00 Não disponível
+Organizador PJ Por mês Não disponível Conforme negociaçãoCRÉDITO UNIDADE DE COBRANÇA VALOR R$ (PF) VALOR R$ (PJ)
+Tarifa de Abertura de Crédito (TAC) - Capital de Giro Por solicitação Não disponível 4.000,00
+Tarifa de Abertura de Crédito (TAC) - Limite de Desconto de Recebíveis Na contratação/na renovação Não disponível 4.000,00
+Tarifa de Abertura de Crédito (TAC) - Rotativos Na contratação/na renovação Não disponível 4.000,00
+Tarifa de Abertura de Crédito (TAC) - Microcrédito Por solicitação Até 3% do crédito concedido Até 3% do crédito concedido
+Tarifa de Abertura de Crédito (TAC) - Demais Produtos de Crédito Comercial Por solicitação Não disponível 4.000,00
+Aditamento de Operações de Crédito Por solicitação 100,00 100,00
+Tarifa de Liquidação Antecipada (TLA)6Por solicitação Não disponível 2%
+Confecção de Borderô para Desconto de Recebíveis Por solicitação Não disponível 400,00
+Emissão de Carta-Fiança Por solicitação Não disponível 1.000,00
+Desistência Antecipada da Carta-Fiança Por solicitação Não disponível 1.000,00
+Avaliação, reavaliação e substituição de bens recebidos em garantia Por solicitação 4.000,00 4.000,00
+Fornecimento de atestados, certificados e declarações Por solicitação 250,00 250,00
+Concessão de Adiantamento a Depositante Por solicitação - 50,00
+Tarifa de Abertura de Crédito (TAC) - Cartão BNDES Por solicitação Não disponível Até 2% do limite concedido 
+Avaliação emergencial limite Cartão BNDES Por solicitação Não disponível Até 2% sobre novo limite concedido 
+Emissão de 2a via Cartão BNDES Por solicitação Não disponível 20,00SERVIÇOS DIFERENCIADOS
+PESSOA FÍSICA
+PRODUTOS / SERVIÇOS INCLUÍDOS  PREÇO DO 
+SERVIÇOSERVIÇOS 
+ESSENCIAISPacote Padronizado 
+Pessoa Física IPacote Padronizado 
+Pessoa Física IIPacote Padronizado
+ Pessoa Física IIIPacote Padronizado 
+Pessoa Física IV
+Qtde. total de serviços Qtde. total de serviços Qtde. total de serviçosQtde. total  
+de serviços
+ExtratoFornecimento  de extrato mensal ou  
+período específicoR$ 2,50 2 6 8 12 12
+CadastroConfecção de cadastro para início  
+de relacionamentoIsento - - - - -   
+ChequesFornecimento de folhas de cheque 
+(talonário) R$ 1,90 10 - 12 15 20
+SaquesTerminais de autoatendimento R$ 2,00
+4 8 8 10 12 Presencial ou pessoal R$ 5,00
+Rede compartilhada  R$ 3,50
+DOC/TED 
+(canais eletrônicos)R$ 9,00
+- - 1 2 3
+DOC/TED 
+(canais pessoais)R$ 13,00
+Entre contas Sicredi Isento 2 Ilimitado Ilimitado Ilimitado Ilimitado
+VALOR TOTAL DOS SERVIÇOS 
+INCLUÍDOS NO PACOTE- R$ 18,00 R$ 35,80 R$ 64,50 R$ 87,00
+VALOR MENSAL DO PACOTE - R$ 15,00 R$ 22,50 R$ 64,50 R$ 45,50
+% DE ECONOMIA - 16% 37% 47% 48%PACOTES DE SERVIÇOS BACEN
+ 
+PESSOA FÍSICA
+PRODUTOS / SERVIÇOS INCLUÍDOS  PREÇO DO SERVIÇO SERVIÇOS ESSENCIAISCESTA BENEFICIÁRIO INSS13 CESTA  
+TOUCHCESTA FOLHA  
+DE PAGAMENTOCESTA  
+PRÁTICACESTA  
+PLUSCESTA  
+POPCESTA  
+SIMPLESCESTA  
+JUNTOSCESTA  
+VIP
+Qtde. total  
+de serviçosQtde. total  
+de serviçosQtde. total  
+de serviçosQtde. total  
+de serviçosQtde. total  
+de serviçosQtde. total  
+de serviçosQtde. total  
+de serviçosQtde. total  
+de serviçosQtde. total  
+de serviços
+ExtratoFornecimento de extrato mensal  
+ou período específicoR$ 2,50 2 2 2 6 4 20 2 2 6 Ilimitado
+CadastroConfecção de cadastro  
+para início de relacionamentoIsento - - Isento Isento Isento Isento Isento Isento Isento Isento
+ChequesFornecimento de folhas de cheque 
+(talonário) R$ 1,90 10 10 20 20 20 40 10 10 20 Ilimitado
+SaquesTerminais de autoatendimento R$ 2,00
+4 4 12(11)12(11)12(11)28(11)4 6(14)12(14)Ilimitado Presencial ou pessoal R$ 5,00
+Rede compartilhada R$ 3,50
+TransferênciasDOC/TED (canais eletrônicos) R$ 9,00 - - 1 1 - 4 Ilimitado
+3(14)6(14)Ilimitado
+DOC/TED (canais pessoais) R$ 13,00 - - - - - - -
+Entre contas Sicredi Isento 2 2 Ilimitado Ilimitado Ilimitado Ilimitado Ilimitado Ilimitado Ilimitado Ilimitado
+Token Fornecimento de Token R$ 150,00 - - - - - - - - - 1
+VALOR TOTAL DOS SERVIÇOS INCLUÍDOS NA CESTA - R$ 0,00 R$ 44,00 R$ 54,00 R$ 40,00 R$ 186,00 R$ 891,00 R$ 43,00 R$ 123,00 R$ 1.872,60(13)
+VALOR MENSAL DA CESTA - R$ 0,00 R$ 10,00 R$ 10,00 R$ 33,00 R$ 67,50 R$ 72,00 R$ 19,90 R$ 34,90 R$ 69,90CESTAS DE RELACIONAMENTO SICREDI
+PESSOA JURÍDICA
+PRODUTOS / SERVIÇOS INCLUÍDOS  PREÇO DO SERVIÇOSERVIÇOS  
+ISENTOS PJ CESTA BÁSICA  EMPRESARIALCESTA  
+EMPRESARIALCESTA  
+EMPRESARIAL 02CESTA  
+EMPRESARIAL 03CESTA  
+EMPRESARIAL 04CESTA  
+EMPRESARIAL 05 CESTA  
+EMPRESARIAL 06
+(Cesta Organizador PJ) CESTA  
+EMPRESARIAL 07CESTA MEI CESTA CONNECT
+Qtde. total  
+de serviçosQtde. total  
+de serviçosQtde. total  
+de serviçosQtde. total  
+de serviçosQtde. total  
+de serviçosQtde. total  
+de serviçosQtde. total  
+de serviçosQtde. total  
+de serviçosQtde. total  
+de serviçosQtde. total  
+de serviçosQtde. total  
+de serviços
+ExtratoFornecimento de extrato mensal ou período 
+específicoR$ 2,50 2 2 4 5 10 15 20 25 40 4 2
+CadastroConfecção de cadastro para início de 
+relacionamentoIsento - Isento Isento Isento Isento Isento Isento Isento Isento Isento Isento
+Renovação cadastral R$ 120,00 - 1/ano 1/ano 1/ano 1/ano 1/ano 1/ano 1/ano 1/ano 1/ano 1/ano
+ChequesRevogação/sustação de cheque R$ 12,00 - - - - - - 1 2 5 - -
+Fornecimento de folhas de cheque (talonário) R$ 1,90 10 10 10 20 40 60 100 100 100 20 -
+Fornecimento de folhas de cheque
+ (Formulário Contínuo)R$ 1,90 - - - - - - 100 200 Ilimitado - -
+Processamento - Compe R$ 2,50 - 10 10 20 40 60 100 200 Ilimitado 20 10
+SaquesTerminais de autoatendimento R$ 2,00
+44 6 8 10 15 30 50 40 10 6
+Presencial ou pessoal R$ 5,00 2 2 2 2 2 2 4 10 - -
+Rede compartilhada R$ 3,50 - - 2 3 4 5 6 20 - -
+DepósitosDepósito em cheque R$ 2,00 - - - 50 70 100 150 250 Ilimitado 30 10
+Depósito Rede Saque e Pague R$ 12,00 - - - 4 8 15 30 50 Ilimitado - -
+TransferênciasDOC/TED (canais eletrônicos) R$ 9,00 - 1 1 2 3 5 7 10 15 2 Ilimitado
+DOC/TED (canais pessoais) R$ 13,00 - - - - - - - - 3 - -
+Entre contas Sicredi Isento 2 Ilimitado Ilimitado Ilimitado Ilimitado Ilimitado Ilimitado Ilimitado Ilimitado Ilimitado Ilimitado
+Manutenção Manutenção de conta corrente R$ 30,00 - 1 1 1 1 1 1 1 1 1 1
+Cheque EspecialConcessão de cheque especial R$ 50,00 - Incluído Incluído Incluído Incluído Incluído Incluído Incluído Incluído Incluído Incluído 
+Renovação de cheque especial R$ 65,00 - 4/ano 4/ano 4/ano 4/ano 4/ano 4/ano 4/ano 4/ano 4/ano 4/ano
+Token Fornecimento de Token R$ 150,00 - - - - - 1/ano 1/ano 1/ano 1/ano - 1/anoCONTA CORRENTE UNIDADE DE COBRANÇA VALOR R$ (PF) VALOR R$ (PJ)
+Manutenção de conta corrente Por mês Não disponível 30,00
+Renovação de cadastro Por ocorrência Não disponível 120,00
+Concessão de cheque empresarial Na contratação Não disponível 50,00
+Renovação de cheque empresarial Na renovação Não disponível 65,00
+Débito autorizado em conta Por ocorrência Não disponível 5,00
+Depósito em espécie Por ocorrência Não disponível Conforme negociação
+Depósito Rede Saque e Pague Por ocorrência Não disponível 12,00
+Serviço de Gestão de Numerário Varejista na Saque e Pague Por mês Não disponível 0,30% sobre o valor depositado
+Serviço de Gestão de Numerário Cofre Inteligente Por mês Não disponível 0,30% sobre o valor depositado
+Provisionamento de saque Por ocorrência Não disponível 0,10% sobre o valor provisionado
+Cancelamento de provisionamento de saque Por ocorrência Não disponível Conforme negociaçãoCRÉDITO IMOBILIÁRIO UNIDADE DE COBRANÇA VALOR R$ (PF) VALOR R$ (PJ)
+Tarifa de Serviços de Administração Mensal (cobrada junto com a prestação) 25,00 Não disponível
+Análise de apólice habitacional de mercado Por solicitação 100,00 Não disponível
+Substituição de Bens em Garantia Por solicitação 600,00 Não disponível
+Avaliação de Bens em Garantia Por solicitação 2.500,00 Não disponível
+Taxa de acompanhamento da operação de Pró-Cotista Por solicitação Até 1,5% da operação Não disponível
+Estudo de viabilidade de obra Por solicitação 710,00 Não disponível
+Acompanhamento de obra Por solicitação de vistoria 510,00 Não disponível
+WOOP - Disponível para contas abertas no aplicativo Woop
+PRODUTOS / SERVIÇOS INCLUÍDOS PREÇO DO SERVIÇOCESTA WOOP
+Qtde. total de serviços
+Cadastro Confecção de cadastro para início de relacionamento Isento Isento
+SaquesTerminais de autoatendimento R$ 2,00
+4
+Rede compartilhada R$ 3,50
+TransferênciasDOC/TED (canais eletrônicos) R$ 9,00 Ilimitado
+Entre contas Sicredi Isento Ilimitado
+                 VALOR MENSAL DA CESTA R$ x,xx11. Após os 4 primeiros saques da quantidade total de serviços mensais da sua Cesta, eles poderão ser realizados nos terminais de 
+autoatendimento Sicredi, de modo que haverá cobrança de tarifa avulsa caso sejam realizados nos guichês de caixa ou nos terminais 
+da Rede Compartilhada.
+12.  São consideradas 99 ocorrências nos serviços ilimitados para fins de cálculo do valor total dos serviços.
+13. Associados que recebem o benefício do INSS e desejarem realizar a transferência total ou parcial do benefício para outras 
+instituições podem realizá-la de forma gratuita.
+14. Para esses serviços, a quantidade franqueada é unificada independentemente do canal no qual a transação for realizada.
+Transações que excederem as quantidades mensais contratadas serão cobradas de forma avulsa, conforme preços estabelecidos na 
+Tabela de Tarifas. Ouvidoria - 0800 646 2519. Denúncias ou Reclamações - Banco Central do Brasil: 0800 979 2345.
+Os serviços franqueados pelas Cestas de Relacionamento, Pacotes Padronizados e Serviços Essenciais em contas abertas nas agências 
+serão renovados sempre no 2º (segundo) dia útil do mês.
+Consulte disponibilidade das Cestas de Relacionamento em sua cooperativa.
+Tarifas máximas estabelecidas pelo Sicredi para aplicação em toda a sua rede de atendimento em consonância com a Resolução 3.919, 6. A Tarifa de Liquidação Antecipada (TLA) é exclusiva para pessoas jurídicas de médio e grande porte. Percentual da tarifa aplicado sobre o saldo devedor apurado na data de amortização do contrato.
+Organizador PJ Utilização do Organizador Conforme negociação - - - - - - - 1 - - -
+VALOR MENSAL DA CESTA   R$ 0,00 R$ 29,00 R$ 56,50 R$ 79,00 R$ 90,50 R$ 138,50 R$ 175,50 R$ 256,50 R$ 445,00 R$ 35,00 R$ 74,90% DE ECONOMIA - 0% 77% 81% 17,5% 63% 91% 53% 71% 95%
