@@ -22,10 +22,12 @@ Para executar os códigos, siga as instruções contidas nos comentários de cad
 
 ## To-Do
 
-- [ ] Organizar os arquivos baixados na raspagem de dados em uma pasta `data\downloads\`
-- [ ] Separar os arquivos baixos dos arquivos de texto na pasta `data\tratados\`
-- [ ] Desenvolver script para extrair informações dos arquivos .txt
-
+- [ x ] Organizar os arquivos baixados na raspagem de dados em uma pasta `data\raw\`
+- [ x ] Separar os arquivos baixos dos arquivos de texto na pasta `data\npl\`
+- [ x ] Desenvolver script para extrair informações dos arquivos .txt com funcao OCR.
+- [ ] Desenvolver script para normalizar os dados (deletar duplicatas, ponctuations, filtros, stopwords, stammer, lemmatizer etc).
+- [ ] Criar as categorias de corporas para analise estatísitca, desenvolver o modelo de análise e a visualizacao dos dados.
+- [ ] Escrever a metodologia, introducao, referencial teório, resultados e discussoes do trabalho.
 
 ## Autores
 
