@@ -1,1 +1,1 @@
-This document was digitally signed by Jandira Kuhn Esteves, Eduardo Netto Sarubbi and Carlos Paes Machado.
+The centralized structure is responsible for establishing the processes, policies and systems that support the System's entities in managing liquidity risk.

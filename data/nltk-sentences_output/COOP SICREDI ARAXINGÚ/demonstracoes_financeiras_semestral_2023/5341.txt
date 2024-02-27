@@ -1,1 +1,1 @@
-In addition to this purpose, some DI operations seek to protect the cooperative's credit portfolio (hedge operations) and others seek to provide liquidity to the Bank for various purposes.
+The Basic Principles and Structure necessary to guarantee the adequate response to recovery, restoration and agreed levels of availability for the entities' most critical processes are set out in Sicredi's Integrated Risk Management Policy and Business Continuity Standard.

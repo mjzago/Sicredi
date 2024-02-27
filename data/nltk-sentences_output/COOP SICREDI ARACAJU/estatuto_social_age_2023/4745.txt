@@ -1,1 +1,0 @@
-The installation quorum must observe the number of calls adopted in the notice.

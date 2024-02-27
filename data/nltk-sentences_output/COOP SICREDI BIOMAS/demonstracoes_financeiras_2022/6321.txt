@@ -1,1 +1,0 @@
-Through a Business Impact Analysis (BIA), the institution's main business processes are identified as well as the IT services that support these processes and thus, they are defined business continuity strategies adopted.

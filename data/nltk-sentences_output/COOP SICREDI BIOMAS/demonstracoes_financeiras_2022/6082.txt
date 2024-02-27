@@ -1,1 +1,1 @@
-- Implementation of Recycling ATMs in 22 branches: with the aim of optimizing time in deposit and withdrawal transactions for members.
+The amounts of taxes and contributions to compensate refer to some cases in which there was an undue payment of INSS amounts resulting from tax refunds that had INSS withheld or payroll reprocessing situations.

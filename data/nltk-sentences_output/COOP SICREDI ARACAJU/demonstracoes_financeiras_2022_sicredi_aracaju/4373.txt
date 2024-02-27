@@ -1,1 +1,1 @@
-These values ​​refer to the amounts receivable from members, relating to credit card transactions.
+Information security risk is defined as the risk related to the probability of exploitation of a vulnerability, considering linked threats, and the impact on the confidentiality, integrity or availability of information and the controls implemented.

@@ -1,1 +1,0 @@
-and exceptionally in cases of operations with post-fixed rate (TLP) it is possible to extend the deadline.

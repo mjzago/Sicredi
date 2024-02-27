@@ -1,1 +1,0 @@
-Transactions that exceed the contracted monthly quantities will be charged individually, according to the prices established in the Rate Table.

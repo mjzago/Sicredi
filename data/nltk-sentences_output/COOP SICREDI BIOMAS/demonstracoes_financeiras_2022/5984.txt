@@ -1,1 +1,1 @@
-The assessment of loss prognoses takes into account the probability of the entity's disbursements for each procedural element and may incur a high degree of judgment the greater the uncertainty.
+When there is a loss, it is recognized by the amount by which the asset's carrying value exceeds its recoverable value, which is the greater of the net sales price and the value in use of an asset.

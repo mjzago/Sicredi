@@ -1,1 +1,1 @@
-To check signatures go to the website https://sicredi.signatureportal.com.br:443 and use code 13D6-C52F-6D4D-FC4D.
+To verify the signatures go to the site https://sicredi.portaldeassinaturas.com.br:443 and use the code 13D6-C52F-6D4D-FC4D.

@@ -1,1 +1,1 @@
-Included in this definition, operations subject to the risks of exchange rate variation, interest rates, share prices and commodity prices.
+The operations with floating rates or indexed to foreign currencies are updated up to the balance sheet date.

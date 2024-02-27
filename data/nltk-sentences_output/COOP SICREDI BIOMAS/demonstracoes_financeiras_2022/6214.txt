@@ -1,1 +1,1 @@
-As of August, Law 14,446/2022 brought a 1% increase in the rate for financial institutions, with effective until December 2022.
+Through a Business Impact Analysis (BIA), the institution's main business processes are identified as well as the IT services that support these processes and thus, they are defined business continuity strategies adopted.

@@ -1,1 +1,1 @@
-Topics present in the guide: Brand, Credit Risk, Information Security, Compliance, LGPD and Socio-environmental Risk.
+Always check if the website has a digital certificate (HTTPS); • Whenever possible, create a more secure password (numbers, letters, symbols) for registrations and do not reuse the same password on different sites/services.

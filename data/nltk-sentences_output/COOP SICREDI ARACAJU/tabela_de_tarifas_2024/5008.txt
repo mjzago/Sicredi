@@ -1,1 +1,1 @@
-In electronic bills, no fee may be charged for this delivery channel.
+In electronic accounts, a fee cannot be charged for this delivery channel.
