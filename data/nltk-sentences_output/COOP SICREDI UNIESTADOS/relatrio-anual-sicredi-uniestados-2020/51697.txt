@@ -1,0 +1,1 @@
+This is the Sicredi Passage Tag, a service for use at automatic gates, such as road tolls.

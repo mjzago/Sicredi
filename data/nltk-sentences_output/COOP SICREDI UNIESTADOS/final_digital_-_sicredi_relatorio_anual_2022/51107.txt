@@ -1,0 +1,1 @@
+Grades ranging from zero are assigned each month (for the largest deviation in relation to the effective monthly result) to ten (for the smallest deviation in relation to the effective monthly result) to then calculate the final average of the monthly grades.

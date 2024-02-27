@@ -1,0 +1,1 @@
+Example: Sicredi controls the data of a new member when opening an account.

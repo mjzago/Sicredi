@@ -1,0 +1,1 @@
+excluding oneself The starting day and including the ending day.

@@ -1,0 +1,1 @@
+§ 69 The "Destination" field must be filled in by selecting the organizational component of Deorf to which the claim must be presented, according to the list available in Subsection 3.4.30.12 of Sisorf.

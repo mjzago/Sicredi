@@ -1,0 +1,1 @@
+For validation, the Services Portal website / Validar must be accessed Documents (https://portalservicos.jucisrs.rs.gov.br/Portal/pages/imagemProcesso/ viaUnica.jsf) and inform the protocol number and security key.

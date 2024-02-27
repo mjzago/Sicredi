@@ -1,0 +1,1 @@
+When there is a loss, it is recognized by the amount by which the asset's carrying value exceeds its recoverable value, which is the greater of the net sales price and the value in use.

@@ -1,0 +1,1 @@
+It is a Billing QR Code with due date, fine, interest and discounts, suitable for members who use API/E-Commerce/Online.

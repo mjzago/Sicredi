@@ -1,0 +1,1 @@
+In total, there are 27 inactive employees recorded on 12/31/2022, who despite being inactive remain in the database, as their position is guaranteed in the event of recovery from disability and can continue to receive employment benefits.

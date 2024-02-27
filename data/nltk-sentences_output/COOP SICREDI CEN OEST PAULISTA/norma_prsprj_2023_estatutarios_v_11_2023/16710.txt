@@ -1,0 +1,1 @@
+Fixed remuneration The fixed remuneration structure establishes references for positions and grades based on market parameters.

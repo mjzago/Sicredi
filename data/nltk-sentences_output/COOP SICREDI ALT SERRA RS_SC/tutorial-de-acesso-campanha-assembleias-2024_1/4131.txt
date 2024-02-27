@@ -1,0 +1,1 @@
+When clicking on the menu, a screen will open, with text about the assemblies and the "Go to assemblies" button, which will direct you, the member, to the official page of the assemblies.

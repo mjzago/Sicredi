@@ -1,0 +1,1 @@
+X - Information Security Risk Orisco Relationship of Information is defined as a related orisco of a vulnerability to exploit, considering linked asthmaches, and the impact on confidentiality, integrity or availability of information and the controls implemented.

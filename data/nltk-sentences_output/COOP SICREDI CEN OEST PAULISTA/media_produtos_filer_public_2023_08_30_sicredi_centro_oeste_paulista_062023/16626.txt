@@ -1,0 +1,1 @@
+Operations with post-fixed rates or indexed to foreign currencies are updated to date of the balance.

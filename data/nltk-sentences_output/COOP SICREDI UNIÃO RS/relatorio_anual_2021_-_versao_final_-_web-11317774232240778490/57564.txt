@@ -1,0 +1,1 @@
+Digital security Until recently, when we thought about security, we immediately referred to padlocks, bars, locks, in short, physical barriers that guaranteed that we would be protected from attacks.

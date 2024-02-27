@@ -1,0 +1,1 @@
+Examples of personal data include name, ID, CPF, email, landline and cell phone, home address, etc.

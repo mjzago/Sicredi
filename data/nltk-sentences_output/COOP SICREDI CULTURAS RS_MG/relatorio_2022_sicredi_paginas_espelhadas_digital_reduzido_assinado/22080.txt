@@ -1,0 +1,1 @@
+To use the voice command function, you need to search for “Sicredi Virtual Assistant” in the Alexa app and activate the skill.

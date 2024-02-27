@@ -1,0 +1,1 @@
+As a result, the registration of ENEF Week actions with Bacen began to be carried out by the Sicredi Foundation, which extracts the data from the new tool and then exports the data to the website https://weekenef.gov.br/.

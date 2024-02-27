@@ -1,0 +1,1 @@
+Revisions to the credit product, such as automatic concession criteria, credit concession parameters Credit, Credit Limits, rates charged and rate spreads at MG Branches.

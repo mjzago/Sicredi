@@ -1,0 +1,1 @@
+The entity will only have its registration validated for new projects after proving the use of resources.

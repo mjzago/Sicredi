@@ -1,0 +1,1 @@
+This internal rule takes into account consideration of the size of the entities and the composition of their assets.

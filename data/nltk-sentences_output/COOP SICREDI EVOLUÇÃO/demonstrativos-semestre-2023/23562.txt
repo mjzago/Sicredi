@@ -1,0 +1,1 @@
+Amounts receivable relating to payment transactions refer the amounts to be received of members, relating to operations with Visa and Mastercard credit cards.

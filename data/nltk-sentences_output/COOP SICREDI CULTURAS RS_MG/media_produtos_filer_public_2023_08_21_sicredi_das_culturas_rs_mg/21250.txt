@@ -1,0 +1,1 @@
+Income and expenses financial nature are accounted for on a pro-rata basis and calculated based on the exponential model, except those relating to discounted securities or related to foreign operations, which are calculated based on the linear method.

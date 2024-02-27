@@ -1,0 +1,1 @@
+• Define the number of projects that can be registered per entity.

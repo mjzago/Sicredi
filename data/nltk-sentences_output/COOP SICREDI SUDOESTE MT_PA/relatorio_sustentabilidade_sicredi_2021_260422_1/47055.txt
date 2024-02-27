@@ -1,0 +1,1 @@
+G4-FS14 We also reactivated an important functionality of the application, the automatic activation of mobile tokens.

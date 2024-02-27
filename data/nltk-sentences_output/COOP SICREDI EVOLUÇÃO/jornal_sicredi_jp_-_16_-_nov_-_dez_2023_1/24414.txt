@@ -1,0 +1,1 @@
+Caixa recycler receives deposits in check and cash without using an envelope.

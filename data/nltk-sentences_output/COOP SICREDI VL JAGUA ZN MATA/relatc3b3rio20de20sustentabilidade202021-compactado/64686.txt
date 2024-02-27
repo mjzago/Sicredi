@@ -1,0 +1,1 @@
+G4-FS14 In internet banking, we offered the possibility of consulting Pix movements, including the display of future releases on some screens that did not yet have this option.

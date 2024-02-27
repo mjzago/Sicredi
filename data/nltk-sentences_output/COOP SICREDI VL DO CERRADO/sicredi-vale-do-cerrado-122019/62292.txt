@@ -1,0 +1,1 @@
+Depreciation of fixed assets in use is computed using the straight-line method, based on the annual rates mentioned in the Note "Fixed Assets in Use and Intangible Assets", which take into account the useful economic life of the assets.

@@ -1,0 +1,1 @@
+die are calculated based on the exponential model, except those relating to discounted securities or related to transactions with the outside world, which are calculated based on the linear method.

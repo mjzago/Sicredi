@@ -1,0 +1,1 @@
+The structure Centralized is responsible for establishing the processes, policies and systems that support System entities in managing liquidity risk.

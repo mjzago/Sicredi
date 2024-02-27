@@ -1,0 +1,1 @@
+X - Information Security Risk The risk of insurance of information is defined as the risk related to the likelihood of exploitation of a vulnerability, considering the threats linked, and the impact on confidentiality, integrity or availability of information and the controls implemented.

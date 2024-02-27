@@ -1,0 +1,1 @@
+This trail covers everything from basic concepts on how to implement a data-driven culture to good practices in data consumption.

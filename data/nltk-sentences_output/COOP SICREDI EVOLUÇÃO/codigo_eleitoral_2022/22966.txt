@@ -1,0 +1,1 @@
+If the due date falls on a holiday or weekend, the deadline will be considered extended until the next business day.

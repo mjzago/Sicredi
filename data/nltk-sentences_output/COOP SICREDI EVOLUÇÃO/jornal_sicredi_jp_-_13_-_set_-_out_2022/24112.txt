@@ -1,0 +1,1 @@
+The LCA is based on the CDI to calculate the profitability of the product, which varies according to the stipulated period and the amount invested.

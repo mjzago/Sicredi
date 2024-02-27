@@ -1,0 +1,1 @@
+The tool is connected to the Sicredi application, allowing investments to be monitored, as well as sending and withdrawing funds to purchase assets.

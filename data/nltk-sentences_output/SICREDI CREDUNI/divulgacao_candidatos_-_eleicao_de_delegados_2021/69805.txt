@@ -1,0 +1,1 @@
+If there is A tie will be declared as the member with the longest membership in the Cooperative.

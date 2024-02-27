@@ -1,0 +1,1 @@
+• Position: corresponds to the location/hierarchical level that a given position occupies in the organizational structure of each entity.

@@ -1,0 +1,1 @@
+If there is a tie, the member with the longest experience will be declared elected.

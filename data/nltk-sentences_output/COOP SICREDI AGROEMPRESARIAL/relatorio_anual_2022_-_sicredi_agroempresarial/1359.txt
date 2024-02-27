@@ -1,0 +1,1 @@
+This way, we are able to identify the number of satisfied and dissatisfied members, what we need to improve and what we can maintain.

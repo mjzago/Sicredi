@@ -1,0 +1,1 @@
+For validation, you must access the Services Portal / Validate Documents website (http://portalservicos.jucec.ce.gov.br/Portal/pages/imagemProcesso/viaUnica.jsf) and enter the number of protocol and security key.

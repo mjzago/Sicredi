@@ -1,0 +1,1 @@
+X - Information Security Risk Risk of Information is defined as the risk related to the probability of exploitation of a vulnerability, considering linked asths, and the impact on the confidentiality, integrity or availability of information and controls.

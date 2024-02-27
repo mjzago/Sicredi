@@ -1,0 +1,1 @@
+Project registration goes through six stages and each of them must be completed in accordance with the number of characters available for each field, and texts that exceed the standard limit of the form may be disregarded.

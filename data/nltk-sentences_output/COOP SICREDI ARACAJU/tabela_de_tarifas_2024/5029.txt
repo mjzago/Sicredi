@@ -1,0 +1,1 @@
+Personal withdrawal 5.00 5.00 Self-service terminalWithdraw from a self-service terminal in addition to the number of free withdrawals allowed per month.

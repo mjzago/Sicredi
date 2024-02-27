@@ -1,0 +1,1 @@
+CONTROLLER Person physical or legal entity, under public or private law, who are responsible for decisions regarding the processing of personal data.

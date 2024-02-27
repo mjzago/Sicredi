@@ -1,0 +1,1 @@
+The Sustainability Indicator System, also known as SIS, is an online system that facilitates the collection of GHG Emissions Inventory data.

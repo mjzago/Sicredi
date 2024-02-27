@@ -1,0 +1,1 @@
+To implement the strategy, we have two structures with different responsibilities: a structure for decision-making and another to guarantee the implementation of the theme.

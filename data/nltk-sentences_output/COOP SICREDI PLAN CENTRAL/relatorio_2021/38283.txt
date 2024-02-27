@@ -1,0 +1,1 @@
+ebase tax allowances Negative calculation of CSLL from previous years, with this deduction limited to 30% of taxable profit.

@@ -1,0 +1,1 @@
+Delegate discusses and votes on agendas by the tool itself.

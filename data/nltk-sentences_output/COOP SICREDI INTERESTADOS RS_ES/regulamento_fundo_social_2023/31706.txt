@@ -1,0 +1,1 @@
+The user will be an Individual, responsible for registering the project.

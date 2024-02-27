@@ -1,0 +1,1 @@
+The shipping table will be calculated based on data from June of the current year, and the new value in this table will be valid for the following fiscal year.

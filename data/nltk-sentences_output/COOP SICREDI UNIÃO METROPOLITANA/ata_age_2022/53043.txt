@@ -1,0 +1,1 @@
+For validation, you must the Services Portal / Validate Documents website (https://portalservicos.jucisrs.rs.gov.br/Portal/pages/imagemProcesso/viaUnica.jsf) must be accessed and enter the protocol number and security key.

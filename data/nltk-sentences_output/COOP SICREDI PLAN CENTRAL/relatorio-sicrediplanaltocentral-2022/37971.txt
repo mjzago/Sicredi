@@ -1,0 +1,1 @@
+Business Continuity Management system structured in Sicr edi includes: • Business Continuity Management Standard; • Business impact analysis - BIAs; • Business and IT disaster recovery strategies; • Operational and IT continuity plans.

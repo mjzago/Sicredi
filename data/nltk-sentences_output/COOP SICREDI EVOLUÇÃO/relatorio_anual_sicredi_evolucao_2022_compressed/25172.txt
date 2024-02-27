@@ -1,0 +1,1 @@
+Recurring PIX Implementation of payment scheduling via PIX in the Sicr edi application, facilitating financial transactions, avoiding delays and forgetfulness in paying off debts.

@@ -1,0 +1,1 @@
+Internal resources for payments on Pals They also represent funding from the National Treasury transferred by BNDES.

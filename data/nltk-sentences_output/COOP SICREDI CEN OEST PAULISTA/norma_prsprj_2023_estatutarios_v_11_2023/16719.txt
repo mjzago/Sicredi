@@ -1,0 +1,1 @@
+- Predict local deflator from 80% to 100% based on regional reference tables, allowing salary ranges differentiated by city; - The area responsible for People Management in each Entity will be updated and made available annually.

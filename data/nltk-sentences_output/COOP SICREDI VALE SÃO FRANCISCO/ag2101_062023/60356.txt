@@ -1,0 +1,1 @@
+Sicredi has a structure to respond appropriately to the recovery, restoration and agreed levels of availability for the most critical processes of the System's centralizing entities, in the event of the occurrence of events that cause the interruption of its services, preserving, thus, the interests of all parties involved.

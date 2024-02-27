@@ -1,0 +1,1 @@
+This score is multiplied by the weight of the grade, to result in the maximum grade for the criterion.

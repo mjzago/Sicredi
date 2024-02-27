@@ -1,0 +1,1 @@
+If the tie persists, the oldest member will be declared elected.

@@ -1,0 +1,1 @@
+The risk assumptions adopted, given their nature, are not part of the scope of a security audit.

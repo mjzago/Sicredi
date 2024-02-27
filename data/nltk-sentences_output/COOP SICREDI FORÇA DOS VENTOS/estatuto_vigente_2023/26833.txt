@@ -1,0 +1,1 @@
+a coordinator, responsible for calling meetings and directing the work, and a secretary.

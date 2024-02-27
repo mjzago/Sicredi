@@ -1,0 +1,1 @@
+Operations with fixed rates are recorded at redemption value, and the corresponding income and expenses to the future period are presented in a reducing account of the respective assets and liabilities.

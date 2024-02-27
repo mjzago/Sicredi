@@ -1,0 +1,1 @@
+#Information classification: Internal UseInformation security risk is defined as risk related to probability exploiting a vulnerability, considering the linked threats, and the impact on the confidentiality, integrity or availability of information and the controls implemented.

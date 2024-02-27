@@ -1,0 +1,1 @@
+The main highlights were: Account opening via the Sicredi In this model, we now allow opening accounts for new members via the application.

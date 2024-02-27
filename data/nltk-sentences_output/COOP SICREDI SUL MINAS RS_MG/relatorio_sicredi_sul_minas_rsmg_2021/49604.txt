@@ -1,0 +1,1 @@
+To obtain the indicator, a monthly telephone survey is carried out, with some randomly selected members, in which they are asked: “Considering a score from 0 to 10, what is the probability of you recommending the cooperative to a friend?” If If the member says 0 to 6, he is considered a detractor, that is, he is dissatisfied.

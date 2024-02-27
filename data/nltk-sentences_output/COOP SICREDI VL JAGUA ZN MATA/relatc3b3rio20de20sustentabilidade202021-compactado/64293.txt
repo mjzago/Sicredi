@@ -1,0 +1,1 @@
+It is responsible for the centralized risk management structure of the System and the scaled administration of resources.

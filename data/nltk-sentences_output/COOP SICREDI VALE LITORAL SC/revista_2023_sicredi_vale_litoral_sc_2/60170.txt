@@ -1,0 +1,1 @@
+It is also possible to send payment slip files for all condominiums at once.

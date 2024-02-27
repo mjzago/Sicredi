@@ -1,0 +1,1 @@
+In 2021, we made progress in delivering the Security Evolution Program, with the main highlights being increased resilience against cyber attacks, resulting from the expansion of threat monitoring, improvements in security controls, implementation of new channel protection technologies and increase in security tests.

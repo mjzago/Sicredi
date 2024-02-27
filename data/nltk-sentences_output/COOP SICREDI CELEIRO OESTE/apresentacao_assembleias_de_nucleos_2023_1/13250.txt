@@ -1,0 +1,1 @@
+✓Group of members by nucleus: Changed the rule from “geographical location” to “number of members” per nucleus.

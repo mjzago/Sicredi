@@ -1,0 +1,1 @@
+It was created to enable employees to work with foreign currencies to implement the service.

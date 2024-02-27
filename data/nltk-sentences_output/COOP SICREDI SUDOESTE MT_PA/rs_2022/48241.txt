@@ -1,0 +1,1 @@
+Between the main deliverables of the application, we highlight Favorites Management, which provides more security in transactions for recurring recipients.

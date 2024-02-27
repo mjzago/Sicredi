@@ -1,0 +1,1 @@
+LGPDLGPD Definitions DATA SUBJECT A natural person who can be identified, directly or indirectly, by one or more factors such as name, ID, CPF, location data.

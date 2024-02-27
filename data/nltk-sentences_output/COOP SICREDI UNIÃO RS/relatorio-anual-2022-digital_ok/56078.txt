@@ -1,0 +1,1 @@
+“Within our activity we always need a resource from some entity.

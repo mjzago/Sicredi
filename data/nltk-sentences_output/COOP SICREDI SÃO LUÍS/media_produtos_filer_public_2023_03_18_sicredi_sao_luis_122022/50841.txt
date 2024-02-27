@@ -1,0 +1,1 @@
+Income and expenses of a financial nature are accounted for using the pro-rata die criterion and calculated based on the exponential model, except those relating to discounted securities or related to foreign operations, which are calculated based on the linear method.

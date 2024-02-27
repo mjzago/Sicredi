@@ -1,0 +1,1 @@
+- We begin the process to operate with Pix Saque and Pix Troco and further adopt this facility in our application.

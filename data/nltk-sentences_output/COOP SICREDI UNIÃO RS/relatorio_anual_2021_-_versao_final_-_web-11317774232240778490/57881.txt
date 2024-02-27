@@ -1,0 +1,1 @@
+We were a pilot for the systemic implementation of recycling ATMs, that is, that receive a cash deposit without an envelope and with the amount credited instantly.

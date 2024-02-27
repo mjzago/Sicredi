@@ -1,0 +1,1 @@
+This definition includes operations subject to exchange rate variation risks, interest rates, share prices and commodity prices.

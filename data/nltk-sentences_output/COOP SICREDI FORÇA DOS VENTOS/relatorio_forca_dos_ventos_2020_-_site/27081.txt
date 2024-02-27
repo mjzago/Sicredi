@@ -1,0 +1,1 @@
+Financial transactions can be made using a registered Pix key, via QR Code, via Pix Copia e Cola or using bank details, as is currently done.

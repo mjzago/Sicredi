@@ -1,0 +1,1 @@
+Entities that register their project must receive feedback via the website.

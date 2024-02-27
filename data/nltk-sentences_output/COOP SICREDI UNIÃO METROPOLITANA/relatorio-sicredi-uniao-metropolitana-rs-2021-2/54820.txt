@@ -1,0 +1,1 @@
+It is a QR Code option with due date information, interest, etc.

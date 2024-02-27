@@ -1,0 +1,1 @@
+NPS (Net Promoter Score) is a metric used to measure the level of customer satisfaction (in our case, associates).

@@ -1,0 +1,1 @@
+The training of core coordinators was carried out in a modular way.

@@ -1,0 +1,1 @@
+After configuration, simply give the voice command “Alexa, open the Sicredi virtual assistant” and ask the desired question.

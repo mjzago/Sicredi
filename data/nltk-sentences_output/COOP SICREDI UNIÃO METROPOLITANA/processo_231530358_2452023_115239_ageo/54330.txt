@@ -1,0 +1,1 @@
+If there is no bid in the 1st auction, the same day and time will be designated for the 2nd auction, with the highest bid, no lower price allowed.

@@ -1,0 +1,1 @@
+You can click on the voting monitoring banner, which displays the count of the total number of topics and the topics already voted on.

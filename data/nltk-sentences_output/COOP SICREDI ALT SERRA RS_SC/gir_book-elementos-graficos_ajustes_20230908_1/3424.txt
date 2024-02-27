@@ -1,0 +1,1 @@
+Always check if the website has a digital certificate (HTTPS); • Whenever possible, create a more secure password (numbers, letters, symbols) for registrations and do not reuse the same password on different sites/services.

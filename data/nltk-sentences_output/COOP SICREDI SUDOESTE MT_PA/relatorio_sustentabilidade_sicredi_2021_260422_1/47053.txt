@@ -1,0 +1,1 @@
+Also We implemented a control that requires entering a password when biometric data is changed on the device, for greater security when using the application.

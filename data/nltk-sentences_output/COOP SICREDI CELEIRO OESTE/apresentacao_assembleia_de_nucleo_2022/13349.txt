@@ -1,0 +1,1 @@
+The number of members per core cannot be less than 150 (one hundred and fifty) nor greater than 3,0001,500 (three thousand one thousand five hundred); Art.11.

@@ -1,0 +1,1 @@
+Inclusion of Day Counting Rules •Counted in days consecutive, excluding the starting day and including the ending day, and if the due date falls on a holiday or weekend, the deadline is considered the next business day.

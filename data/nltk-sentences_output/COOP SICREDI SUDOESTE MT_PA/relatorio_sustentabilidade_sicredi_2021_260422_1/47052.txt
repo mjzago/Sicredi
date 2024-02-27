@@ -1,0 +1,1 @@
+The user is warned more clearly that enabling biometrics allows access to their account using all biometric data registered on the device.

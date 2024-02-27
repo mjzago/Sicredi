@@ -1,0 +1,1 @@
+The operations with floating rates or indexed to foreign currencies are updated up to the balance sheet date.

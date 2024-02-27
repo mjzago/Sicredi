@@ -1,0 +1,1 @@
+We implemented payment via QR-Code in the Sicredi app and put WhatsApp Enterprise and Theo, our virtual customer service agent, into operation in all our branches.

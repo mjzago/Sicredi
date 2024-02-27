@@ -1,0 +1,1 @@
+The Business Continuity Management system structured in Si credi includes: • Business Continuity Management Standard; • Business impact analysis - BIAs; • Business and disaster recovery strategies from you; • Operational and IT continuity plans.

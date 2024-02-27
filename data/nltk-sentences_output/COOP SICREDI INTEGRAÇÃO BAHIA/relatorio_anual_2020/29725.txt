@@ -1,0 +1,1 @@
+Applications of DI between Bank and Cooperative refer to operations to cover advances on receivables made by members during acquisition, with a remuneration rate of 105% of the CDI.

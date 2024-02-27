@@ -1,0 +1,1 @@
+If the calculation results in a fractional number, the immediately higher whole number must be considered.

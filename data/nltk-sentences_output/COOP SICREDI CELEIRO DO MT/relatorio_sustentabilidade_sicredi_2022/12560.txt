@@ -1,0 +1,1 @@
+SASB FN-CB-230 a.2 We also have automated preventive controls to identify possible vulnerabilities in information systems, with established processes that include the identification, categorization, classification and treatment of identified vulnerabilities.

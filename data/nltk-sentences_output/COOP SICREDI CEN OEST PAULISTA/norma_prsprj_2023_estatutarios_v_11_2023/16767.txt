@@ -1,0 +1,1 @@
+The proportional calculation is based on a fraction equal to or greater than 15 (fifteen) working days in the month.

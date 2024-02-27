@@ -1,0 +1,1 @@
+- Hybrid Boleto, receipt method with which it is possible to change the bill in the traditional format with bar code and 0 QR Code Pix together.

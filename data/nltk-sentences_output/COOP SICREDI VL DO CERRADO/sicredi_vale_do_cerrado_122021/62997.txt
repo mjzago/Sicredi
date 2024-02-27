@@ -1,0 +1,1 @@
+Seeking to improve the speed of digital service, we implemented our Virtual Agency in this exercise, making WhatsApp another alternative and humanized channel for our associates.

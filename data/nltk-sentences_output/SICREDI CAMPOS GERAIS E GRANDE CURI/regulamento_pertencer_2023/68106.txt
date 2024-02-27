@@ -1,0 +1,1 @@
+The person with the most votes among the substitutes will be the 1st substitute of all the members; the 2nd with the most votes, the 2nd substitute, and so on.

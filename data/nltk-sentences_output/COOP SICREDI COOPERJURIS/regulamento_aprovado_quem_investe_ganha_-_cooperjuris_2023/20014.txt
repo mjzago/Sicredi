@@ -1,0 +1,1 @@
+Coupon deposit deadlines: The coupon(s) will be cumulative, that is, the coupon(s) participating in the first calculation, including those eligible, will participate in the second and other calculations.

@@ -1,0 +1,1 @@
+After typing the password in the upper field, Confirm it in the field below and click “Finish”.

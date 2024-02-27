@@ -1,0 +1,1 @@
+The basic principles and the necessary structure to ensure adequate response to recovery, restoration and agreed levels of availability for the entities' most critical processes.

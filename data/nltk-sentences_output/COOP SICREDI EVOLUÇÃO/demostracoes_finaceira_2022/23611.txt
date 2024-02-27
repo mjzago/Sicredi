@@ -1,0 +1,1 @@
+When this is the case, the recoverable value is calculated to check if there is a loss.

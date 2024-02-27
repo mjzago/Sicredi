@@ -1,0 +1,1 @@
+Implementation of a self-service kiosk in the city of Agudos, to serve members in this location who do not yet have a physical branch, and also to facilitate the prospecting of new members in the County.

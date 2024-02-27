@@ -1,0 +1,1 @@
+When new delegates are elected, their mandates must coincide with the remaining time of the remaining delegates already elected.

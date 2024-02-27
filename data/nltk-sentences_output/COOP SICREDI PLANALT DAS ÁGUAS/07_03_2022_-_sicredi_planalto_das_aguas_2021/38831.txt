@@ -1,0 +1,1 @@
+Those relating to a legal entity, such as CNPJ, company name, business address, among others, are not considered personal data.

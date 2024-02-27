@@ -1,0 +1,1 @@
+The market value of rural producer banknotes (CPR) is obtained from the curve interest rate, based on the rates negotiated in the B3 day DI futures market, and credit spreads obtained through the risk premium established for the counterparty of the operation.

@@ -1,0 +1,1 @@
+allows voting on a maximum of 03 (three) names, with votes not voted in the system being considered blank.

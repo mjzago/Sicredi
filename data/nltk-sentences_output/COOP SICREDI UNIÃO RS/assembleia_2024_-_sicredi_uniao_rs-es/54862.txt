@@ -1,0 +1,1 @@
+which must have 8 characters, containing letters (upper and lower case) and numbers.

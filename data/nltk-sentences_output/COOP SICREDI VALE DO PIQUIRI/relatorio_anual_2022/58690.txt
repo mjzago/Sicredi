@@ -1,0 +1,1 @@
+The home broker is available in a web version and for mobile devices, which is connected to the main Sicredi application, allowing investments to be monitored, as well as sending and withdrawing funds to purchase assets.

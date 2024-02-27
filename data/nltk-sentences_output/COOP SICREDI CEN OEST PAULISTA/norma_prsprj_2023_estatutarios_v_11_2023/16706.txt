@@ -1,0 +1,1 @@
+Shipping costs must be made up of specific resources, called “shipping resources”.

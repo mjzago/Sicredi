@@ -1,0 +1,1 @@
+The Business Continuity Management system structured at Sicredi contemplates the Business Continuity Management Standard; 0 Business impact analysis - B|As; 0 Business and IT disaster recovery strategies; 0 Operational and IT continuity plans.

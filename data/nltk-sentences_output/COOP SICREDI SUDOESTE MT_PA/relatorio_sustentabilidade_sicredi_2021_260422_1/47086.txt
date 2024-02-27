@@ -1,0 +1,1 @@
+G4-FS14 In the application, we included functionalities for managing consent regarding data sharing within the Open Banking menu.

@@ -1,0 +1,1 @@
+G4 FS2In this pre-grant validation, a “restriction” message is issued when overlaps with APAs (Areas of Environmental Preservation) and ARIEs (Areas of Relevant Ecological Interest), or a “prohibition” message when overlaps with indigenous lands, quilombola lands, embargoed areas or full-use conservation units are identified, preventing the continuity of financing in these cases.

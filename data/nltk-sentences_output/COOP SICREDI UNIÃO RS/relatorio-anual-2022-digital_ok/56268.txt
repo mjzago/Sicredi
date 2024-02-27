@@ -1,0 +1,1 @@
+The solution brought by Pluggy extracts detailed data - from Open Finance information obtained with the member's consent -, which enriches the raw data on members' financial movements with an organized view, through the categorization of these movements, whether bank transactions or cards from other financial institutions.

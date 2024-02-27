@@ -1,0 +1,1 @@
+Open Banking enables the sharing of information about products and people's financial history between institutions regulated by the Central Bank, with the consent of users.

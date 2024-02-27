@@ -1,0 +1,1 @@
+The installation quorum must comply with the number of calls adopted in the notice.

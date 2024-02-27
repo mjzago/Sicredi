@@ -1,0 +1,1 @@
+In addition, Push Pix credit was implemented — an alert to members without a Pix balance, which suggests taking out credit to carry out the transaction.

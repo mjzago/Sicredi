@@ -1,0 +1,1 @@
+Each coordinator is responsible for taking the decisions of their core members to the cooperative's General Assembly.

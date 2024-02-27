@@ -1,0 +1,1 @@
+X - Information Security Risk Information security risk is defined as the risk related the likelihood of exploitation of a vulnerability, considering the linked threats, and the impact on the confidentiality, integrity or availability of information and the controls implemented.

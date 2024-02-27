@@ -1,0 +1,1 @@
+Member data cannot be provided by the cooperative to the center coordinator, due to the confidentiality of information.

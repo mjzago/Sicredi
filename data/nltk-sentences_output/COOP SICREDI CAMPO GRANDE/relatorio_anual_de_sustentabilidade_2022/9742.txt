@@ -1,0 +1,1 @@
+To further facilitate usability, filters were included in the transactions, allowing searches by type of transaction and totalizers, which make viewing faster.

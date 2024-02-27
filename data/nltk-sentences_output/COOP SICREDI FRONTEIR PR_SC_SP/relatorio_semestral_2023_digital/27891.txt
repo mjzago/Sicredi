@@ -1,0 +1,1 @@
+Sicredi Fronteiras PR/SC/SP 44In order to mitigate the risk of financial losses resulting from fraud through forgery and manipulation of identification documents of individuals, We implemented a tool to validate the authenticity of these documents, ensuring greater security and efficiency in our Cooperative's account opening flows.

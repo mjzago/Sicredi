@@ -1,0 +1,1 @@
+Percentage of the tariff applied to the outstanding balance determined at the contract amortization date.

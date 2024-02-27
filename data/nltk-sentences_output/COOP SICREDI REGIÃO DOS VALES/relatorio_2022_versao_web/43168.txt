@@ -1,0 +1,1 @@
+With the implementation of the new service model, we also began the process of remodeling the branches, providing a modern environment that prioritizes the proximity and privacy of members.

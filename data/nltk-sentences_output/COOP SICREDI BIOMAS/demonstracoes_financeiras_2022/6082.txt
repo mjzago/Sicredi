@@ -1,0 +1,1 @@
+- Implementation of Recycling ATMs in 22 branches: with the aim of optimizing time in deposit and withdrawal transactions for members.
