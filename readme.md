@@ -25,9 +25,9 @@ To execute the codes, follow the instructions contained in the comments of each 
 - [ x ] Organize downloaded files in the data `raw\` folder.
 - [ x ] Separate downloaded files from text files in the `data\npl\` folder.
 - [ x ] Develop a script to extract information from .txt files using OCR function.
-- [ ] Develop a script to normalize data (delete duplicates, punctuations, filters, stopwords, stemming, lemmatization, etc.).
-- [ ] Create corpus categories for statistical analysis, develop the analysis model, and data visualization.
-- [ ] Write the methodology, introduction, theoretical framework, results, and discussions of the work.
+- [ x ] Develop a script to normalize data (delete duplicates, punctuations, filters, stopwords, stemming, lemmatization, etc.).
+- [ x ] Create corpus categories for statistical analysis, develop the analysis model, and data visualization.
+- [ x ] Write the methodology, introduction, theoretical framework, results, and discussions of the work.
 
 ## Authors
 
